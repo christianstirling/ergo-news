@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1">
+
+    <title>ergoTimes</title>
+    
+    <link rel="stylesheet" href="./style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="base">
+        <header class="header-outer">
+            <div class="header-inner header-sm">
+                <div class="header-top">
+
+                    <div class="header-left">
+                        <div class="logo-container">
+                            <h1 class="logo-name cormorant-garamond-bold">Ergonomics Times</h1>
+                            <h2 class="logo-slogan nunito-sans">Keeping you up-to-date on news in ergonomics</h2>
+                        </div>
+                    </div>
+
+                    <div class="header-right">
+                        <div class="button-container">
+                            <button class="drop-button" drop-button>
+                                <i class="drop-icon" drop-icon>
+                                    <img src="./svg/menu-white.svg" class="drop-image" drop-image/>
+                                </i>
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="header-bottom hide" drop-window>
+
+                    <div class="search-container">
+                        <form class="search-box" search-box-sm>
+                            <input type="text" name="s" class="search-input" placeholder="Search. . ." search-input-sm>
+                        </form>
+                    </div>
+
+                    <div class="filter-container">
+
+                        <ul class="category-list">
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" legal-button-sm><div class="icon-container">
+                                <img src="./svg/helmet-20px-white.svg"/>
+                            </div>Legal</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" research-button-sm><div class="icon-container">
+                                <img src="./svg/cap-20px-white.svg"/>
+                            </div>Research</button></li>
+                            
+                        </ul>
+
+                        <ul class="category-list">
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" industry-button-sm><div class="icon-container">
+                                <img src="./svg/briefcase-20px-white.svg"/>
+                            </div>Industry</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" events-button-sm><div class="icon-container">
+                                <img src="./svg/handshake-20px-white.svg"/>
+                            </div>Events</button></li>
+                        </ul>
+                    
+
+                        <ul class="location-list hide">
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" us-button-sm>US</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" international-button-sm>International</button></li>
+                        </ul>
+                
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+
+        <header class="header-outer">
+            <div class="header-inner header-lg">
+                <div class="header-top">
+
+                    <div class="header-left">
+                        <div class="logo-container">
+                            <h1 class="logo-name cormorant-garamond-bold">Ergonomics Times</h1>
+                            <h2 class="logo-slogan nunito-sans">Keeping you up-to-date on news in ergonomics</h2>
+                        </div>
+                    </div>
+
+                    <div class="header-right">
+                        <div class="icon-container">
+                            <img src="./svg/search-small.svg"/>
+                        </div>
+
+                        <div class="search-container">
+                            <form class="search-box" search-box-lg>
+                                <input type="search" name="s" class="search-input" placeholder="Search. . ." search-input-lg>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="header-bottom">
+                    <div class="filter-container">
+                        <ul class="category-list">
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" legal-button-lg><div class="icon-container">
+                                <img src="./svg/helmet-20px-white.svg"/>
+                            </div>Legal</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" research-button-lg><div class="icon-container">
+                                <img src="./svg/cap-20px-white.svg"/>
+                            </div>Research</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" industry-button-lg><div class="icon-container">
+                                <img src="./svg/briefcase-20px-white.svg"/>
+                            </div>Industry</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" events-button-lg><div class="icon-container">
+                                <img src="./svg/handshake-20px-white.svg"/>
+                            </div>Events</button></li>
+                        
+                        </ul>
+                        <div class="icon-container hide">
+                            <img src="./svg/funnel-small.svg"/>
+                        </div>
+                        <ul class="location-list hide">
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" us-button-lg>US</button></li>
+                            <li class="filter-item"><button class="filter-button noto-sans-reg" international-button-lg>International</button></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+
+        <main class="content-area">
+
+            <div class="grid-container">
+
+                <template class="grid-template" grid-template>
+
+                    <div class="card-outer">
+                        <div class="card-inner">
+
+
+                            <div class="card-front">
+
+                                <div class="reverse-outer">
+
+                                    <div class="reverse-inner">
+
+                                        <div class="card-top">
+
+                                            <div class="image-container">
+                                                <img class="card-image" src="" card-image/>
+                                            </div>
+                                            
+                                            <div class="tag-container">
+                                                <div class="category-tag card-tag noto-sans-reg" category-tag></div>
+                                                <div class="location-tag card-tag noto-sans-reg" location-tag></div>
+                                            </div>
+
+                                            <div class="title-container">
+                                                <h3 class="card-title nunito-sans-bold" card-title></h3>
+                                            </div>
+
+                                            <div class="source-container">
+                                                <div class="card-source noto-sans-reg" card-source></div>
+                                            </div>
+
+                                            <div class="date-container">
+                                                <div class="card-date noto-sans-reg" card-date></div>
+                                            </div>
+
+                                        </div>
+                                        <div class="card-bottom">
+                                            <div class="button-container">
+                                                <a href="" target=”_blank” class="read-link card-button noto-sans-reg" read-link-front>Full Article</a>
+                                                <!-- <button class="flip-button card-button noto-sans-reg" flip-button-front>AI Summary</button> -->
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    
+
+                                </div>
+
+                                <div class="corner" front-corner>
+                                    <div class="corner-infront">
+                                        <button class="corner-button flip-button card-button noto-sans-reg" flip-button-front>
+                                            <div class="icon-container ai-icon">
+                                                <img src="./svg/open-ai-32px.svg"/>
+                                            </div>
+                                            <div class="icon-container arrow-icon">
+                                                <img src="./svg/arrow-angular-top-left.svg"/>
+                                            </div>
+                                        </button>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                                    
+                            <div class="card-back">
+
+                                <div class="face-left">
+                                    <div class="icon-container">
+                                        <img class="suit-icon" src="./svg/code-1.svg" suit-icon/>
+                                    </div>
+                                </div>
+                                <div class="face-middle">
+                                    <div class="card-top">
+                                        <div class="disclaimer-container">
+                                            
+                                            <div class="card-disclaimer noto-sans-reg">
+                                                <div class="icon-container hide">
+                                                    <img class="disclaimer-icon" src="./svg/ai-small-dark.svg"/>
+                                                </div> OpenAI-generated summary
+                                            </div>
+                                        </div>
+
+
+                                        <div class="summary-container">
+                                            <p class="card-summary nunito-sans" card-summary></p>
+                                        </div>
+
+                                        
+                                    </div>
+
+                                    <div class="card-bottom">
+
+                                        <div class="button-container">
+                                            <a href="" target=”_blank” class="read-link card-button noto-sans-reg" read-link-back>Full Article</a>
+                                            <!-- <button class="flip-button card-button noto-sans-reg" flip-button-back>News Card</button> -->
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                                <div class="face-right">
+                                    <div class="icon-container">
+                                        <img class="suit-icon" src="./svg/ai-small-dark.svg" suit-icon/>
+                                    </div>
+                                </div>
+
+                                <div class="corner hide" back-corner>
+                                    <div class="corner-infront">
+                                        <button class="corner-button flip-button card-button noto-sans-reg" flip-button-back>
+                                            <div class="icon-container arrow-icon">
+                                                <img src="./svg/arrow-angular-top-right.svg"/>
+                                            </div>
+                                        </button>
+                                    </div>
+
+                                    <div class="reverse-design-outer">
+                                        <div class="reverse-design-inner"></div>
+                                    </div>
+
+                                    <div class="corner-behind"></div>
+                                </div>
+                                
+                            </div>
+
+                        </div>
+
+                        
+
+                    </div>
+                </template>
+
+                <div class="grid" grid></div>
+
+            </div>
+            
+        </main>
+    </div>
+
+    
+    <script src="./index.js" charset="UTF-8"></script>
+  
+</body>
+
+</html>

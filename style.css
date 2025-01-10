@@ -1,0 +1,985 @@
+.nunito-sans {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
+.nunito-sans-bold {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100,
+        "YTLC" 500;
+}
+
+.noto-sans-reg {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.cormorant-garamond-regular {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cormorant-garamond-bold {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+/* colors:
+dark dark: #161616
+    dark: #1b1b1b
+    dark(less): #272727
+    border-gray(med-dark): #595959
+    light gray: #e6e6e6
+    white: #ffffff
+
+*/
+
+
+
+
+
+
+
+
+/* CSS BEGINS HERE */
+
+/* Basic presets for the elements themselves. Mostly just for automatically setting
+    displays and removing margins/padding, etc. */
+
+* {
+    box-sizing: border-box;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 8px;
+    background-color: #3a3a3a;
+}
+
+div {
+    display: block;
+}
+
+h1, h2 {
+    color: white;
+}
+
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 12px;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
+i {
+    height: 100%;
+}
+
+button, a {
+    cursor: pointer;
+    border: none; 
+    border-radius: 3px;
+}
+
+.icon-container {
+    height: 20px;
+    width: 20px;
+}
+
+/* Styles for the header.  Includes the outer header-container as well as the small version of 
+    the inner header elements */
+
+
+.header-outer {
+    background-color: #161616;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-inner {
+    width: calc(100% - 20px);
+    max-width: 1440px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.drop-button {
+    background-color: #161616;
+}
+
+
+.header-bottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 18px;
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+
+.search-box {
+    height: 36px;
+}
+
+.search-input, .filter-button {
+    background-color: #303030;
+    color: white;
+    border: #595959 solid 1px;
+}
+
+.search-input {
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+    font-size: 15px;
+}
+
+.header-sm .filter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.header-sm .category-list {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    flex-wrap: wrap;
+    gap: 5px;
+    height: 36px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.header-sm .location-list {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    gap: 5px;
+    flex-wrap: wrap;
+    height: 36px;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.filter-item {
+    flex-grow: 1;
+}
+
+.filter-button {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 8px 12px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.header-lg {
+    display: none;
+}
+
+@media (min-width: 700px) {
+    .header-lg {
+        display: block;
+    }
+
+    .header-sm {
+        display: none;
+    }
+}
+
+/* The inner header styling for the larger version of the header. */
+
+.header-lg .filter-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-lg .category-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    height: 36px;
+    width: 100%; 
+}
+
+.header-lg .location-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    height: 36px;
+    width: 30%;
+}
+
+@media (min-width: 425px) {
+    .header-inner {
+        width: calc(100% - 100px);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling for the main content area. This includes the grid and then each of the card elements. */
+
+.content-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grid-container {
+    width: calc(100% - 20px);
+}
+
+@media (min-width: 420px) {
+    .grid-container {
+        width: calc(100% - 100px);
+    }
+}
+
+.grid, .grid-template {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+@media (min-width: 700px) {
+    .grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 1000px) {
+    .grid {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Card container */
+
+.card-outer {
+    aspect-ratio: .75;
+}
+
+.card-inner {
+    transform-style: preserve-3d;
+    transition: all 0.8s ease;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+
+
+.is-flipped .card-inner{
+    transform: rotateY(180deg);
+}
+
+.is-image-hidden .card-image {
+    opacity: 0;
+}
+
+.card-front, .card-back {
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+    background-color: rgb(255, 255, 255);
+    color: rgb(27, 27, 27);
+    border-radius: 10px;
+
+    backface-visibility: hidden;
+
+    flex-grow: 1;
+}
+
+/* These calls (justify content for front and back) are just to help set the location of the 'corner' elements (which act
+    as buttons the flip the card) */
+
+.card-front {
+    justify-content: end;
+}
+
+.card-back {
+    justify-content: start;
+}
+
+
+
+.card-top {
+    margin-top: 0%; 
+    display: flex;
+    flex-direction: column;
+    gap: 3%;
+    flex-grow: 1;
+}
+
+/* Content on the front side of the card */
+
+
+/* 'reverse-outer' goes directly inside the 'card-front' element. The reverse side is the side with the color on it  */
+
+.reverse-outer {
+    height: 100%;
+    width: 96%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 7px;
+
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+    margin: 2%;
+
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+
+    border: red 1.5px solid;
+
+    background-color: #eba1a1;
+    background-size: 7% 5.2%;
+    background-image:
+    linear-gradient(
+        45deg,
+        transparent 48%, white 48%,
+        white 52%,
+        transparent 52%
+    ),
+    linear-gradient(
+        135deg,
+        transparent 48%, white 48%,
+        white 52%, transparent 52%
+    );
+}
+
+.reverse-inner {
+
+    height: 100%;
+    width: 88%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 7px;
+
+    margin-right: 6%;
+    margin-left: 6%;
+    margin-top: 10%;
+    margin-bottom: 6%;
+
+    border: red 1.5px solid;
+
+    background-color: white;
+
+}
+
+
+
+.image-container {
+    align-self: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 0%;
+    align-items: center;
+
+    overflow: hidden;
+}
+
+.card-image {
+    width: 90%;
+    background-color: white;
+    display: none;
+}
+
+.tag-container {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.card-tag {
+    display: inline;
+    margin-right: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+    color: #1b1b1b;
+    background-color: #e6e6e6;
+    border: #595959 solid 1px;
+
+    border-radius: 2px;
+}
+
+.tag-container {
+    display: none;
+}
+
+.title-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: 0%; 
+}
+
+.card-title {
+    height: 100%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #1b1b1b;
+}
+
+.source-container {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.card-source {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+    color: #1b1b1b;
+}
+
+.date-container {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.card-date {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+    color: #1b1b1b;
+}
+
+
+
+@media (min-width: 320px) {
+    .card-title {
+        font-size: 14px;
+    }
+
+    .image-container {
+        height: 30%;
+    }
+
+    .card-image {
+        display: block;
+    }
+}
+
+
+
+
+
+
+/* Content on the BACK side of the card */
+
+.card-back {
+    position: absolute; 
+    transform: rotateY(180deg);
+
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.face-left {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    align-items: center;
+    margin-top: 2%
+
+
+}
+
+.face-right {
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: end;
+    margin-bottom: 2%
+}
+
+.face-right .icon-container, .face-left .icon-container {
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+.face-middle {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+
+    margin-top: 10%;
+    max-height: 100%;
+    margin-bottom: 9%;
+}
+
+.disclaimer-container {
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.card-disclaimer {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    color: #1b1b1b;
+    height: 100%;
+    font-size: 16px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-weight: 700;
+}
+
+.summary-container {
+    padding-left: 0%;
+    padding-right: 0%;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: 0%; 
+}
+
+.card-summary {
+    height: 100%;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #1b1b1b;
+    font-size: 10px;
+    overflow: hidden;
+
+    text-align: justify;
+}
+
+
+
+
+
+
+.card-bottom {
+    margin-bottom: 3%;
+    
+}
+
+.button-container {
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.grid .button-container *, .grid-template .button-container * {
+    text-decoration: none;
+    font-size: 12px;
+    color: #1b1b1b;
+    background-color: #e6e6e6;
+    border: #595959 solid 1.5px;
+    font-weight: 700;
+    padding: 8px 12px;
+}
+
+.grid .button-container *:hover {
+    background-color: #ffffff;
+}
+
+
+/* Media querying for the text size on the front of the card */
+
+@media (min-width: 340px) {
+    .card-summary {
+        font-size: 12px;
+    }
+}
+
+
+@media (min-width: 380px) {
+    .card-title {
+        font-size: 16px;
+    }    
+}
+
+@media (min-width: 420px) {
+    .card-title {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 500px) {
+    .card-title {
+        font-size: 20px;
+    }
+
+    .card-summary {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 600px) {
+    .card-title {
+        font-size: 22px;
+    }
+
+    .card-summary {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 700px) {
+    .card-title {
+        font-size: 14px;
+    }
+
+    .card-disclaimer {
+        font-size: 14px;
+    }
+
+    .card-summary {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 800px) {
+    .card-title {
+        font-size: 16px;
+    }
+
+    .card-disclaimer {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 870px) {
+    .card-title {
+        font-size: 18px;
+    }
+    
+    .card-summary {
+        font-size: 14px;
+    }
+}
+
+@media (min-width: 960px) {
+    .card-title {
+        font-size: 20px;
+    }
+
+    .card-summary {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1000px) {
+    .card-title {
+        font-size: 14px;
+    }
+
+    .card-disclaimer {
+        font-size: 14px;
+    }
+
+    .card-summary {
+        font-size: 10px;
+    }
+}
+
+@media (min-width: 1080px) {
+    .card-summary {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 1140px) {
+    .card-title {
+        font-size: 16px;
+    }
+
+    .card-disclaimer {
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 1260px) {
+    .card-title {
+        font-size: 18px;
+    }
+    
+    .card-summary {
+        font-size: 14px;
+    }    
+}
+
+@media (min-width: 1450px) {
+    .card-title {
+        font-size: 20px;
+    }
+    
+    .card-summary {
+        font-size: 16px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.corner {
+    position: absolute;
+    z-index: 12;
+    height: 15%;
+    width: 20%;
+    background-color: white;
+    align-self: end;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.card-front .corner {
+    border-top-left-radius: 10px;
+
+    background-image:
+    linear-gradient(
+        to top left,
+        #3a3a3a 50%,
+        white 50%
+    );
+
+    box-shadow: -3px 0px 5px #3a3a3a;
+}
+
+.card-back .corner {
+    border-top-right-radius: 10px;
+
+    background-image:
+    linear-gradient(
+        to top right,
+        #3a3a3a 50%,
+        white 50%
+    );
+
+    box-shadow: 3px 1px 5px #3a3a3a;
+}
+
+.corner-behind {
+    position: absolute;
+    z-index: 10;
+    height: 100%;
+    width: 100%;
+    border-top-right-radius: 10%;
+
+    background-color: white;
+}
+
+.reverse-design-outer {
+    position: absolute;
+    z-index: 11;
+    height: 80%;
+    width: 80%;
+
+    border-top-right-radius: 8px;
+    border-top: red 1.5px solid;
+    border-right: red 1.5px solid;
+    background-color: transparent;
+
+    background-size: 100% 100%;
+    background-image:
+    linear-gradient(
+        to top right,
+        transparent 50%,
+        #eba1a1 50%
+    ); 
+}
+
+.reverse-design-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+
+    background-size: 50% 49%;
+    background-image:
+    linear-gradient(
+        45deg,
+        transparent 48%, white 48%,
+        white 52%,
+        transparent 52%
+    ),
+    linear-gradient(
+        135deg,
+        transparent 48%, white 48%,
+        white 52%, transparent 52%
+    )
+}
+
+.corner-infront {
+    height: 100%;
+    width: 100%;
+}
+
+.card-back .corner-infront {
+    z-index: 12;
+    border-top-right-radius: 10px;
+
+    background-image:
+    linear-gradient(
+        to top right,
+        #3a3a3a 50%,
+        transparent 50%
+    ); 
+}
+
+.corner-button {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.corner-button .icon-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    
+}
+
+.card-front .ai-icon {
+    justify-content: end;
+    align-items: end;
+}
+
+.card-front .arrow-icon {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+.card-back .arrow-icon {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+
+
+/* Extra styling for classes used by javascript */
+
+.hide {
+    display: none !important;
+}

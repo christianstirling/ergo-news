@@ -1,0 +1,72 @@
+[
+    {
+        "image": "./img/ehstoday-logo.webp",
+        "category": "Research",
+        "location": "US",
+        "title": "Half of All Americans Have Musculoskeletal Pain",
+        "source": "EHS Today Staff",
+        "date": "June 20, 2022",
+        "summary": "A new report reveals that half of all Americans suffer from musculoskeletal (MSK) pain, a leading cause of disability and work absenteeism. The study highlights that MSK conditions, such as back pain, affect people across all age groups, and the growing prevalence of these disorders is linked to factors like sedentary lifestyles and aging. The report emphasizes the need for preventive measures and better access to treatment to manage MSK pain and improve quality of life for those affected.",
+        "link": "https://www.ehstoday.com/health/article/21242004/half-of-all-americans-have-msk-pain"
+    },
+    {
+        "image": "./img/national-law-logo.webp",
+        "category": "Legal",
+        "location": "US",
+        "title": "OSHA Launches National Emphasis Program to Expand on Heat Illness Prevention Campaign",
+        "source": "R. Lance Witcher & Lauren E. Lenhart",
+        "date": "June 14, 2022",
+        "summary": "OSHA has intensified efforts to address heat-related workplace injuries through a National Emphasis Program (NEP) launched in 2022. The NEP targets industries with significant heat exposure, focusing on workplaces with a heat index of 80°F or higher. OSHA will conduct inspections triggered by heat warnings and reported heat hazards, ensuring employers provide cool water, rest breaks, training, and other heat illness prevention measures. The program aims to increase enforcement and inspections to better protect workers from heat-related risks.",
+        "link": "https://natlawreview.com/article/osha-launches-national-emphasis-program-to-expand-heat-illness-prevention-campaign"
+    },
+    {
+        "image": "./img/nsc-logo-2.webp",
+        "category": "Industry",
+        "location": "US",
+        "title": "National Safety Council, Amazon and Top Industry Employers Pledge to Reduce Workplace Injuries by 25% by 2025",
+        "source": "National Safety Council",
+        "date": "June 6, 2022",
+        "summary": "In June 2022, the National Safety Council (NSC) launched the MSD Pledge, a historic initiative to reduce musculoskeletal disorders (MSDs), the most common workplace injury. The pledge, supported by Amazon and other leading organizations, aims to reduce MSD-related injuries by 25% by 2025. Participants commit to analyzing risks, collaborating on solutions, and fostering a safety culture. The MSD Pledge includes resources such as training, coaching, and an annual MSD Solutions Index to track progress, helping employers create safer, healthier workplaces for millions of workers globally.",
+        "link": "https://www.prnewswire.com/news-releases/national-safety-council-amazon-and-top-industry-employers-pledge-to-reduce-workplace-injuries-by-25-by-2025-301560449.html"
+    },
+    {
+        "image": "./img/seattle-times-logo.webp",
+        "category": "Industry",
+        "location": "US",
+        "title": "Amid criticism of workplace injuries, Amazon signs a new safety pledge",
+        "source": "Lauren Rosenblatt",
+        "date": "June 3, 2022",
+        "summary": "Amazon has joined over 15 companies in the MSD Pledge, committing to reduce musculoskeletal disorders (MSDs) by 25% by 2025. MSDs, caused by repetitive movements or poor ergonomics, are common injuries like back and wrist pain. The pledge is part of Amazon's $12 million partnership with the National Safety Council. Despite facing criticism for high injury rates, Amazon aims to reduce MSD injuries by 40% and focuses on continuous improvement, employee feedback, and safety investments to enhance workplace conditions.",
+        "link": "https://www.seattletimes.com/business/amid-criticism-of-workplace-injuries-amazon-signs-a-new-safety-pledge/"
+    },
+    {
+        "image": "./img/sciencedirect-logo.png",
+        "category": "Research",
+        "location": "International",
+        "title": "Methods for measuring physical workload among commercial cleaners: A scoping review",
+        "source": "Wonil Lee, Jia-Hua Lin, Ninica Howard, Stephen Bao",
+        "date": "June 1, 2022",
+        "summary": "This scoping review examines the methods used to measure physical workload among commercial cleaners, a labor-intensive profession with high musculoskeletal disorder (MSD) risks. The review identifies 48 studies, primarily employing direct measurements, and highlights the use of multiple methods to assess physical workload factors like task duration, posture, and force exertion. It discusses various measurement tools, including observational assessments and self-reports, while also addressing their strengths and limitations for researchers and safety practitioners. The findings emphasize the need for combined approaches to assess external and internal exposures, as well as the acute physical responses associated with cleaning tasks.",
+        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0169814122000609"
+    },
+    {
+        "image": "./img/mmh-logo.png",
+        "category": "Industry",
+        "location": "US",
+        "title": "Lightening loads with warehouse ergonomics",
+        "source": "Bridget McCrea",
+        "date": "May 27, 2022",
+        "summary": "As labor shortages persist, companies are focusing on ergonomics to improve worker safety and productivity. In industries like warehousing, adjustable equipment and wearable exoskeletons help reduce injuries and fatigue. With automation still costly, ergonomic solutions offer an affordable way to support workers and boost retention.",
+        "link": "https://www.mmh.com/article/lightening_loads_with_warehouse_ergonomics"
+    },
+    {
+        "image": "./img/exoskeleton-report-logo.png",
+        "category": "Industry",
+        "location": "International",
+        "title": "NIOSH Uploads Six Amazing Exoskeleton Webinars to YouTube",
+        "source": "Bobby Marinov",
+        "date": "April 20, 2022",
+        "summary": "NIOSH has uploaded several informative webinars on exoskeleton technology to YouTube. These sessions, recorded between 2019 and 2021, cover topics like the use of exosuits in workplaces and healthcare, Boeing’s experience with industrial exoskeletons, and Toyota’s efforts to reduce musculoskeletal disorders. Other presentations discuss the value of ergonomics, challenges in surgery, and emerging safety technologies. These webinars offer valuable insights into the latest developments in exoskeletons and their impact on worker health and performance.",
+        "link": "https://exoskeletonreport.com/2022/04/niosh-uploads-six-amazing-exoskeleton-webinars-to-youtube/"
+    }
+]
