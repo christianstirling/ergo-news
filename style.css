@@ -93,6 +93,28 @@ dark dark: #161616
 
 /* CSS BEGINS HERE */
 
+
+/* colors */
+
+body {
+    background-color: #161616;
+}
+.header-outer {
+    background-color: #000000;
+}
+
+.drop-button {
+    background-color: #000000;
+}
+
+.search-input, .filter-button {
+    background-color: #1b1b1b;
+    color: white;
+    border: #303030 solid 1px;
+}
+
+
+
 /* Basic presets for the elements themselves. Mostly just for automatically setting
     displays and removing margins/padding, etc. */
 
@@ -105,7 +127,7 @@ dark dark: #161616
 
 body {
     margin: 8px;
-    background-color: #3a3a3a;
+    /* background-color: #3a3a3a; */
 }
 
 div {
@@ -154,7 +176,7 @@ button, a {
 
 
 .header-outer {
-    background-color: #161616;
+    /* background-color: #161616; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -204,9 +226,7 @@ button, a {
     gap: 10px;
 }
 
-.drop-button {
-    background-color: #161616;
-}
+
 
 
 .header-bottom {
@@ -222,11 +242,7 @@ button, a {
     height: 36px;
 }
 
-.search-input, .filter-button {
-    background-color: #303030;
-    color: white;
-    border: #595959 solid 1px;
-}
+
 
 .search-input {
     width: 100%;
@@ -905,11 +921,11 @@ button, a {
     background-image:
     linear-gradient(
         to top left,
-        #3a3a3a 50%,
+        #161616 50%,
         white 50%
     );
 
-    box-shadow: -3px 0px 5px #3a3a3a;
+    box-shadow: -3px 0px 5px #161616;
 }
 
 .card-back .corner {
@@ -918,11 +934,11 @@ button, a {
     background-image:
     linear-gradient(
         to top right,
-        #3a3a3a 50%,
+        #161616 50%,
         white 50%
     );
 
-    box-shadow: 3px 1px 5px #3a3a3a;
+    box-shadow: 3px 1px 5px #161616;
 }
 
 .corner-behind {
@@ -988,7 +1004,7 @@ button, a {
     background-image:
     linear-gradient(
         to top right,
-        #3a3a3a 50%,
+        #161616 50%,
         transparent 50%
     ); 
 }

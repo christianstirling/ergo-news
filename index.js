@@ -799,17 +799,17 @@ internationalButtonDrop.addEventListener("mouseout", () => {
 
 function mouseOver(button, isFilterActive) {
     if (isFilterActive === true) {
-        button.style.backgroundColor = "#303030"
-    } else {
         button.style.backgroundColor = "#161616"
+    } else {
+        button.style.backgroundColor = "#000000"
     }
 }
 
 function mouseOut(button, isFilterActive) {
     if (isFilterActive === true) {
-        button.style.backgroundColor = "#161616"
+        button.style.backgroundColor = "#000000"
     } else {
-        button.style.backgroundColor = "#303030"
+        button.style.backgroundColor = "#161616"
     }
 }
 
@@ -817,11 +817,11 @@ function mouseOut(button, isFilterActive) {
 */
 
 function activateButton(button) {
-    button.style.backgroundColor = "#161616"
+    button.style.backgroundColor = "#000000"
 }
 
 function deactivateButton(button) {
-    button.style.backgroundColor = "#303030"
+    button.style.backgroundColor = "#161616"
 }
 
 /*  'refreshGrid' is the big boy of the whole script.  This is designed to carry the weight of all of the nav bar finctionality 
