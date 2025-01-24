@@ -174,11 +174,27 @@ button, a {
     margin-bottom: 10px;
 }
 
+.header-left .logo-contaner {
+    align-items: center;
+}
+
 .logo-container {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     gap: 5px;
+}
+
+.header-center {
+    display: flex;
+    justify-content: center;
+}
+
+.header-center .logo-container {
+    /* height: 50px; */
+    width: 150px;
+    overflow: hidden;
+
 }
 
 .header-right {
