@@ -39,6 +39,40 @@
     font-style: normal;
 }
 
+.arvo-regular {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.arvo-bold {
+    font-family: "Arvo", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+  
+.arvo-regular-italic {
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+  
+.arvo-bold-italic {
+    font-family: "Arvo", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.roboto-regular {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+  
+
 
 /* colors:
 dark dark: #161616
@@ -85,6 +119,7 @@ h1, h2 {
 
 h1 {
     font-size: 35px;
+    font-weight: 400;
 }
 
 h2 {
