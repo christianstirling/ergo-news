@@ -140,8 +140,26 @@ h1, h2 {
 
 
 h1 {
-    font-size: 35px;
+    font-size: 25px;
     font-weight: 400;
+}
+
+@media (min-width: 390px) {
+    h1 {
+        font-size: 35px;
+    }
+}
+
+@media (min-width: 420px) {
+    h1 {
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 475px) {
+    h1 {
+        font-size: 35px;
+    }
 }
 
 h2 {
@@ -196,6 +214,11 @@ button, a {
     margin-bottom: 10px;
 }
 
+.header-left {
+    display: flex;
+    
+}
+
 .header-left .logo-contaner {
     align-items: center;
 }
@@ -212,9 +235,11 @@ button, a {
     justify-content: center;
 }
 
+
+
 .header-center .logo-container {
     /* height: 50px; */
-    width: 130px;
+    width: 120px;
     overflow: hidden;
 
 }
@@ -340,18 +365,11 @@ button, a {
     width: 30%;
 }
 
-@media (min-width: 425px) {
+@media (min-width: 420px) {
     .header-inner {
         width: calc(100% - 100px);
     }
 }
-
-
-
-
-
-
-
 
 
 
@@ -757,7 +775,7 @@ button, a {
 
 @media (min-width: 340px) {
     .card-summary {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
 
@@ -766,11 +784,19 @@ button, a {
     .card-title {
         font-size: 16px;
     }    
+
+    .card-summary {
+        font-size: 12px;
+    }
 }
 
 @media (min-width: 420px) {
     .card-title {
         font-size: 18px;
+    }
+
+    .card-summary {
+        font-size: 10px;
     }
 }
 
@@ -780,7 +806,7 @@ button, a {
     }
 
     .card-summary {
-        font-size: 14px;
+        font-size: 12px;
     }
 }
 
@@ -790,7 +816,7 @@ button, a {
     }
 
     .card-summary {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
@@ -804,7 +830,7 @@ button, a {
     }
 
     .card-summary {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
 
@@ -824,7 +850,7 @@ button, a {
     }
     
     .card-summary {
-        font-size: 14px;
+        font-size: 12px;
     }
 }
 
@@ -834,7 +860,7 @@ button, a {
     }
 
     .card-summary {
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
@@ -853,9 +879,7 @@ button, a {
 }
 
 @media (min-width: 1080px) {
-    .card-summary {
-        font-size: 12px;
-    }
+    
 }
 
 @media (min-width: 1140px) {
@@ -865,6 +889,9 @@ button, a {
 
     .card-disclaimer {
         font-size: 16px;
+    }
+    .card-summary {
+        font-size: 12px;
     }
 }
 
