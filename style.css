@@ -194,7 +194,6 @@ button, a {
 
 
 .header-outer {
-    /* background-color: #161616; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -205,6 +204,12 @@ button, a {
     max-width: 1440px;
     display: block;
     margin-bottom: 5px;
+}
+
+@media (min-width: 420px) {
+    .header-inner {
+        width: calc(100% - 100px);
+    }
 }
 
 .header-top {
@@ -365,11 +370,7 @@ button, a {
     width: 30%;
 }
 
-@media (min-width: 420px) {
-    .header-inner {
-        width: calc(100% - 100px);
-    }
-}
+
 
 
 
@@ -414,16 +415,6 @@ button, a {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
 /* Card container */
 
 .card-outer {
@@ -465,31 +456,10 @@ button, a {
     flex-grow: 1;
 }
 
-/* These calls (justify content for front and back) are just to help set the location of the 'corner' elements (which act
-    as buttons the flip the card) */
-
-.card-front {
-    justify-content: end;
-}
-
-.card-back {
-    justify-content: start;
-}
-
-
-
-.card-top {
-    margin-top: 0%; 
-    display: flex;
-    flex-direction: column;
-    gap: 3%;
-    flex-grow: 1;
-}
-
 /* Content on the front side of the card */
 
-
-/* 'reverse-outer' goes directly inside the 'card-front' element. The reverse side is the side with the color on it  */
+/* 'reverse-outer' goes directly inside the 'card-front' element. 
+    The reverse side is the side with the color on it  */
 
 .reverse-outer {
     height: 100%;
@@ -528,7 +498,6 @@ button, a {
 }
 
 .reverse-inner {
-
     height: 100%;
     width: 88%;
     display: flex;
@@ -542,12 +511,16 @@ button, a {
     margin-bottom: 6%;
 
     border: red 1.5px solid;
-
     background-color: white;
-
 }
 
-
+.card-top {
+    margin-top: 0%; 
+    display: flex;
+    flex-direction: column;
+    gap: 3%;
+    flex-grow: 1;
+}
 
 .image-container {
     align-self: center;
@@ -566,25 +539,10 @@ button, a {
     display: none;
 }
 
-.tag-container {
-    padding-left: 5%;
-    padding-right: 5%;
-}
-
-.card-tag {
-    display: inline;
-    margin-right: 10px;
-    padding-left: 8px;
-    padding-right: 8px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    font-size: 12px;
-    color: #1b1b1b;
-    background-color: #e6e6e6;
-    border: #595959 solid 1px;
-
-    border-radius: 2px;
-}
+/* This html class was originally created to display the category (or news genre) of the card
+    It still holds the class value which is used elsewhere to indicate which category the card
+    falls under, but it is not supposed to show up on the front of the card, so this should
+    always have a display of none. */
 
 .tag-container {
     display: none;
@@ -629,27 +587,6 @@ button, a {
     color: #1b1b1b;
 }
 
-
-
-@media (min-width: 320px) {
-    .card-title {
-        font-size: 14px;
-    }
-
-    .image-container {
-        height: 30%;
-    }
-
-    .card-image {
-        display: block;
-    }
-}
-
-
-
-
-
-
 /* Content on the BACK side of the card */
 
 .card-back {
@@ -660,7 +597,10 @@ button, a {
     flex-direction: row;
 }
 
-
+/* The face-side of each card is broken down into three columns: left, middle, and right.
+    The left and right columns are used solely to house the 'suit' icons.
+    The middle holds all of the content including the summary, disclaimer, and the button. 
+    */
 
 .face-left {
     display: flex;
@@ -668,8 +608,6 @@ button, a {
     width: 15%;
     align-items: center;
     margin-top: 2%
-
-
 }
 
 .face-right {
@@ -677,7 +615,6 @@ button, a {
     display: flex;
     flex-direction: column;
     align-items: center;
-
     justify-content: end;
     margin-bottom: 2%
 }
@@ -686,9 +623,6 @@ button, a {
     width: 40px;
     height: 40px;
 }
-
-
-
 
 
 .face-middle {
@@ -700,6 +634,8 @@ button, a {
     max-height: 100%;
     margin-bottom: 9%;
 }
+
+/* All of the stuff contained inside of the middle column of the back or face side. */
 
 .disclaimer-container {
     padding-left: 0%;
@@ -744,11 +680,9 @@ button, a {
 
 .card-bottom {
     margin-bottom: 3%;
-    
 }
 
-.button-container {
-    
+.button-container {  
     padding-left: 5%;
     padding-right: 5%;
     display: flex;
@@ -756,7 +690,7 @@ button, a {
     gap: 5px;
 }
 
-.grid .button-container *, .grid-template .button-container * {
+.grid .button-container * {
     text-decoration: none;
     font-size: 12px;
     color: #1b1b1b;
@@ -772,6 +706,21 @@ button, a {
 
 
 /* Media querying for the text size on the front of the card */
+
+
+@media (min-width: 320px) {
+    .card-title {
+        font-size: 14px;
+    }
+
+    .image-container {
+        height: 30%;
+    }
+
+    .card-image {
+        display: block;
+    }
+}
 
 @media (min-width: 340px) {
     .card-summary {
@@ -923,8 +872,25 @@ button, a {
 
 
 
+/* These calls (justify content for front and back) are just to help set the location of the 'corner' elements (which act
+    as buttons the flip the card) */
 
+.card-front {
+    justify-content: end;
+}
 
+.card-back {
+    justify-content: start;
+}
+
+/* This is the section of code where a I created the 'corner' elements for the front and
+    back of the card.
+    These elements are designed to look like the corner of the playing card is flipped over, 
+    to indicate that the user can flip the card over by clicking on it.
+    
+    This was achieved by creating new elements that exist in front of the rest of the
+    card.
+    */
 
 .corner {
     position: absolute;
@@ -935,9 +901,7 @@ button, a {
     align-self: end;
     display: flex;
     justify-content: center;
-    align-items: center;
-
-    
+    align-items: center;   
 }
 
 .card-front .corner {
