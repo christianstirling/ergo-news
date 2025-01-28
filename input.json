@@ -1,0 +1,65 @@
+[
+    {
+        "Name": "Task One",
+        "Handle Type": "Key",
+        "Modifiers": [],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Right"
+    },
+    {
+        "Name": "Task Two",
+        "Handle Type": "L-Shaped",
+        "Modifiers": ["Counter-clockwise"],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Left"
+    },
+    {
+        "Name": "Task Three",
+        "Handle Type": "Jar Lid",
+        "Modifiers": ["Knurled", "2.6 inch diameter"],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Right"
+    },
+    {
+        "Name": "Task Four",
+        "Handle Type": "Round Knob",
+        "Modifiers": ["Smooth", "0.125 inch diameter"],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Right"
+    },
+    {
+        "Name": "Task Five",
+        "Handle Type": "Regular Screwdriver",
+        "Modifiers": ["Clockwise", "Palm-up (60 degrees Supinated)"],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Right"
+    },
+    {
+        "Name": "Task Six",
+        "Handle Type": "T-Handle",
+        "Modifiers": ["Elbow Angle 135 degrees", "Counter-clockwise", "Hand-shake (Neutral)"],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Right"
+    },
+    {
+        "Name": "Task Seven",
+        "Handle Type": "Cylindrical Handle",
+        "Modifiers": ["Smooth", "Outward", "3.3 inch diameter"],
+        "Force Count": 1,
+        "Force Magnitude": 1,
+        "Force Duration": 1,
+        "Hand": "Left"
+    }
+]
