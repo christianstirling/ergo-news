@@ -50,7 +50,7 @@ const internationalButtonDrop = document.querySelector("[international-button-sm
     Next, I'm creating the VARIABLES. This is for values that are going to change during the life cycle of
     the web page (from when the user opens the page to when they refresh it.)
 
-    Each variable here is fairly self explanatory; howerver:
+    Each variable here is fairly self explanatory; however:
 
         articles - Used to hold the array of data (objects named 'article') that will be pulled in from the JSON file.
 
@@ -577,108 +577,7 @@ eventsButtonDrop.addEventListener("click", function () {
 
 */
 
-usButton.addEventListener("click", function () {
-    if (isUsFilterActive === false) {
 
-        isUsFilterActive = true;
-        activateButton(usButton)
-        activateButton(usButtonDrop)
-
-        if (isInternationalFilterActive === true) {
-            isInternationalFilterActive = false
-            deactivateButton(internationalButton)
-            deactivateButton(internationalButtonDrop)
-        } else {
-            isAnyLocationFilterActive = true
-        }
-
-    } else {
-        isUsFilterActive = false;
-        deactivateButton(usButton)
-        deactivateButton(usButtonDrop)
-
-        isAnyLocationFilterActive = false
-    }
-
-    refreshGrid()
-} )
-
-usButtonDrop.addEventListener("click", function () {
-    if (isUsFilterActive === false) {
-
-        isUsFilterActive = true;
-        activateButton(usButtonDrop)
-        activateButton(usButton)
-
-        if (isInternationalFilterActive === true) {
-            isInternationalFilterActive = false
-            deactivateButton(internationalButtonDrop)
-            deactivateButton(internationalButton)
-        } else {
-            isAnyLocationFilterActive = true
-        }
-
-    } else {
-        isUsFilterActive = false;
-        deactivateButton(usButtonDrop)
-        deactivateButton(usButton)
-
-        isAnyLocationFilterActive = false
-    }
-
-    refreshGrid()
-} )
-
-internationalButton.addEventListener("click", function () {
-    if (isInternationalFilterActive === false) {
-
-        isInternationalFilterActive = true
-        activateButton(internationalButton)
-        activateButton(internationalButtonDrop)
-        
-        if (isUsFilterActive === true) {
-            isUsFilterActive = false
-            deactivateButton(usButton)
-            deactivateButton(usButtonDrop)
-        } else {
-            isAnyLocationFilterActive = true;
-        }
-
-    } else {
-        isInternationalFilterActive = false
-        deactivateButton(internationalButton)
-        deactivateButton(internationalButtonDrop)
-        isAnyLocationFilterActive = false
-    }
-
-    refreshGrid()
-} )
-
-internationalButtonDrop.addEventListener("click", function () {
-    if (isInternationalFilterActive === false) {
-
-        isInternationalFilterActive = true
-        activateButton(internationalButtonDrop)
-        activateButton(internationalButton)
-        
-        if (isUsFilterActive === true) {
-            isUsFilterActive = false
-            deactivateButton(usButtonDrop)
-            deactivateButton(usButton)
-        } else {
-            isAnyLocationFilterActive = true;
-        }
-
-    } else {
-        isInternationalFilterActive = false
-        deactivateButton(internationalButtonDrop)        
-        deactivateButton(internationalButton)
-
-        isAnyLocationFilterActive = false
-    }
-
-    refreshGrid()
-} )
 
 /*  Section 3.4: 'Mousing over or out from the filter buttons'
 
@@ -697,6 +596,7 @@ internationalButtonDrop.addEventListener("click", function () {
 legalButton.addEventListener("mouseover", () => {
     mouseOver(legalButton, isLegalFilterActive)
 })
+
 
 legalButton.addEventListener("mouseout", () => {
     mouseOut(legalButton, isLegalFilterActive)
@@ -793,6 +693,18 @@ internationalButtonDrop.addEventListener("mouseout", () => {
 /*  Part 4: Functions
 */
 
+/*  'activateButton' and 'deactivateButton' just change the background color of the button in question.
+*/
+
+function activateButton(button) {
+    button.style.backgroundColor = "#000000"
+}
+
+function deactivateButton(button) {
+    button.style.backgroundColor = "#161616"
+}
+
+
 /*  'mouseOver' and 'mouseOut' are going to basically act as hover functions for all of the filter buttons. 
     Because each button has an active and an inactive state, they need alternating hover colors to correspond with each.
 */
@@ -811,17 +723,6 @@ function mouseOut(button, isFilterActive) {
     } else {
         button.style.backgroundColor = "#161616"
     }
-}
-
-/*  'activateButton' and 'deactivateButton' just change the background color of the button in question.
-*/
-
-function activateButton(button) {
-    button.style.backgroundColor = "#000000"
-}
-
-function deactivateButton(button) {
-    button.style.backgroundColor = "#161616"
 }
 
 /*  'refreshGrid' is the big boy of the whole script.  This is designed to carry the weight of all of the nav bar finctionality 
