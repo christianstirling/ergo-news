@@ -2,7 +2,6 @@
     {
         "image": "./img/ehstoday-logo.webp",
         "category": "Research",
-        "location": "US",
         "title": "Half of All Americans Have Musculoskeletal Pain",
         "source": "EHS Today Staff",
         "date": "June 20, 2022",
@@ -12,7 +11,6 @@
     {
         "image": "./img/national-law-logo.webp",
         "category": "Legal",
-        "location": "US",
         "title": "OSHA Launches National Emphasis Program to Expand on Heat Illness Prevention Campaign",
         "source": "R. Lance Witcher & Lauren E. Lenhart",
         "date": "June 14, 2022",
@@ -22,7 +20,6 @@
     {
         "image": "./img/nsc-logo-2.webp",
         "category": "Industry",
-        "location": "US",
         "title": "National Safety Council, Amazon and Top Industry Employers Pledge to Reduce Workplace Injuries by 25% by 2025",
         "source": "National Safety Council",
         "date": "June 6, 2022",
@@ -32,7 +29,6 @@
     {
         "image": "./img/seattle-times-logo.webp",
         "category": "Industry",
-        "location": "US",
         "title": "Amid criticism of workplace injuries, Amazon signs a new safety pledge",
         "source": "Lauren Rosenblatt",
         "date": "June 3, 2022",
@@ -42,7 +38,6 @@
     {
         "image": "./img/sciencedirect-logo.png",
         "category": "Research",
-        "location": "International",
         "title": "Methods for measuring physical workload among commercial cleaners: A scoping review",
         "source": "Wonil Lee, Jia-Hua Lin, Ninica Howard, Stephen Bao",
         "date": "June 1, 2022",
@@ -52,7 +47,6 @@
     {
         "image": "./img/mmh-logo.png",
         "category": "Industry",
-        "location": "US",
         "title": "Lightening loads with warehouse ergonomics",
         "source": "Bridget McCrea",
         "date": "May 27, 2022",
@@ -62,7 +56,6 @@
     {
         "image": "./img/exoskeleton-report-logo.png",
         "category": "Industry",
-        "location": "International",
         "title": "NIOSH Uploads Six Amazing Exoskeleton Webinars to YouTube",
         "source": "Bobby Marinov",
         "date": "April 20, 2022",

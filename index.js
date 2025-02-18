@@ -81,9 +81,6 @@ let isResearchFilterActive = false;
 let isIndustryFilterActive = false;
 let isEventsFilterActive = false;
 
-let isAnyLocationFilterActive = false;
-let isUsFilterActive = false;
-let isInternationalFilterActive = false;
 
 
 /*  Part 2: Using the 'fetch' function to pull the data from the array of objects in the "./articles.json" folder.
@@ -131,7 +128,6 @@ fetch("./articles.json")
             
             const image = card.querySelector("[card-image]")
             const category = card.querySelector("[category-tag]")
-            const location = card.querySelector("[location-tag]")
             const title = card.querySelector("[card-title]")
             const source = card.querySelector("[card-source]")
             const date = card.querySelector("[card-date]")
@@ -180,11 +176,6 @@ fetch("./articles.json")
                     break
 
             }
-
-
-            location.textContent = article.location
-            const locationClass = article.location.toLowerCase()
-            location.classList.add(locationClass)
 
             title.textContent = article.title
             source.textContent = article.source
@@ -241,7 +232,6 @@ fetch("./articles.json")
             return { 
                 image: article.image,
                 category: article.category,
-                location: article.location,
                 title: article.title,
                 source: article.source,
                 date: article.date,
@@ -766,24 +756,8 @@ function refreshGrid() {
                 } else if (isEventsFilterActive === true && article.category.toLowerCase().includes("events")) {
                     isVisible = true
                 }
-    
-                if (isAnyLocationFilterActive === true) {
-                    if (isUsFilterActive === true && !article.location.toLowerCase().includes("us")) {
-                        isVisible = false
-                    } else if (isInternationalFilterActive === true && !article.location.toLowerCase().includes("international")) {
-                        isVisible = false
-                    }
-                }
             } else {
                 isVisible = true;
-    
-                if (isAnyLocationFilterActive === true) {
-                    if (isUsFilterActive === true && !article.location.toLowerCase().includes("us")) {
-                        isVisible = false
-                    } else if (isInternationalFilterActive === true && !article.location.toLowerCase().includes("international")) {
-                        isVisible = false
-                    }
-                }
             }
         }
 
