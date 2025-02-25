@@ -1,6 +1,6 @@
 [
     {
-        "image": "./img/Safety & Health Magazine-logo.png",
+        "image": "./img/safety-and-health-magazine-logo.png",
         "category": "Research",
         "title": "Qigong may help relieve chronic low back pain, study of military vets shows",
         "source": "Safety & Health Magazine",
@@ -9,7 +9,7 @@
         "link": "https://www.safetyandhealthmagazine.com/articles/26525-qigong-may-help-relieve-chronic-low-back-pain-study-of-military-vets-shows"
     },
 	{
-        "image": "./img/HFES_Logo.png",
+        "image": "./img/hfes-logo.png",
         "category": "Research",
         "title": "FPE 2025-2026 Impact Grants",
         "source": "Human Factors and Ergonomics Society",
@@ -18,7 +18,7 @@
         "link": "https://www.hfes.org/About/Latest-News/fpe-2025-2026-impact-grants"
     },
 		{
-        "image": "./img/OHS_Logo.png",
+        "image": "./img/ohs-logo.png",
         "category": "Legal",
         "title": "Trump to Nominate David Keeling as OSHA Administrator",
         "source": "Occupational Health & Safety",
@@ -27,7 +27,7 @@
         "link": "https://ohsonline.com/Articles/2025/02/14/White-House-Nominates-Keeting-to-Head-OSHA.aspx"
     },
 		{
-        "image": "./img/EHS_Today_Logo.png",
+        "image": "./img/ehs-today-logo.png",
         "category": "Industry",
         "title": "Poultry, Swine Plants Need to Reduce Injuries Says Secretary Su",
         "source": "EHS Today",
@@ -36,8 +36,8 @@
         "link": "https://www.ehstoday.com/safety/news/55260587/poultry-swine-plants-need-to-reduce-injuries-says-secretary-su"
     },
 		{
-        "image": "./img/OHS_Logo.png",
-        "category": "Education",
+        "image": "./img/ohs-logo.png",
+        "category": "Industry",
         "title": "Managing Extended and Unusual Work Shifts",
         "source": "Occupational Health & Safety",
         "date": "February 07, 2025",
@@ -45,8 +45,8 @@
         "link": "https://ohsonline.com/Articles/2025/02/07/Managing-Extended-and-Unusual-Work-Shifts.aspx"
     },
 		{
-        "image": "./img/IEA_Logo.png",
-        "category": "Education",
+        "image": "./img/iea-logo.png",
+        "category": "Events",
         "title": "FRAM, STAMP, and EAST: case study of a collaborative robot",
         "source": "International Ergonomics Society",
         "date": "February 05, 2025",
@@ -54,7 +54,7 @@
         "link": "https://iea.cc/event/fram-stamp-and-east-case-study-of-a-collaborative-robot/"
     },
 		{
-        "image": "./img/OHS_Logo.png",
+        "image": "./img/ohs-logo.png",
         "category": "Legal",
         "title": "Arizona Representative Introduces Bill to Abolish OSHA",
         "source": "Occupational Health & Safety",
@@ -63,7 +63,7 @@
         "link": "https://ohsonline.com/Articles/2025/02/04/AZ-Rep-Introduces-Bill-to-Abolish-OSHA.aspx?admgarea=news"
     },
 		{
-        "image": "./img/Modern_Materials_Handling_Logo.png",
+        "image": "./img/modern-materials-handling-logo.png",
         "category": "Industry",
         "title": "Using tech to prioritize employee safety",
         "source": "Modern Materials Handling",
@@ -72,8 +72,8 @@
         "link": "https://www.mmh.com/article/using_tech_to_prioritize_employee_safety/ergonomics"
     },
 		{
-        "image": "./img/OHS_Logo.png",
-        "category": "Education",
+        "image": "./img/ohs-logo.png",
+        "category": "Industry",
         "title": "Encouraging Workers to Embrace Ergonomic Work Strategies",
         "source": "Occupational Health & Safety",
         "date": "January 31, 2025",
@@ -81,8 +81,8 @@
         "link": "https://ohsonline.com/Articles/2025/01/31/Encouraging-Workers-to-Embrace-Ergonomic-Work-Strategies.aspx"
     },
 		{
-        "image": "./img/OHS_Logo.png",
-        "category": "Education",
+        "image": "./img/ohs-logo.png",
+        "category": "Industry",
         "title": "How to Find the Most Ergonomic Way to Do a Job",
         "source": "Occupational Health & Safety",
         "date": "January 30, 2025",
@@ -90,7 +90,7 @@
         "link": "https://ohsonline.com/Articles/2025/01/30/How-to-Find-the-Most-Ergonomic-Way-to-Do-a-Job.aspx"
     },
 		{
-        "image": "./img/OHS_Logo.png",
+        "image": "./img/ohs-logo.png",
         "category": "Legal",
         "title": "DOL Halts All Activity Tied to Executive Order 11246",
         "source": "Occupational Health & Safety",
@@ -99,8 +99,8 @@
         "link": "https://ohsonline.com/Articles/2025/01/27/DOL-Halts-All-Activity-Tied-to-Executive-Order-11246.aspx?admgarea=news"
     },
 		{
-        "image": "./img/IEA_Logo.png",
-        "category": "Education",
+        "image": "./img/iea-logo.png",
+        "category": "Events",
         "title": "Using STAMP-STPA in a real case of complex manual assembly in aircraft engine manufacturing",
         "source": "International Ergonomics Society",
         "date": "January 25, 2025",
@@ -108,8 +108,8 @@
         "link": "https://iea.cc/event/using-stamp-stpa-in-a-real-case-of-complex-manual-assembly-in-aircraft-engine-manufacturing/"
     },
 		{
-        "image": "./img/OHS_Logo.png",
-        "category": "Education",
+        "image": "./img/ohs-logo.png",
+        "category": "Events",
         "title": "ASSP Opens Registration for Safety 2025 Conference and Expo",
         "source": "Occupational Health & Safety",
         "date": "January 21, 2025",
@@ -117,7 +117,7 @@
         "link": "https://ohsonline.com/Articles/2025/01/21/ASSP-Opens-Registration-for-Safety-2025-Conference-and-Expo.aspx?admgarea=news"
     },
 		{
-        "image": "./img/Safety & Health Magazine-logo.png",
+        "image": "./img/safety-and-health-magazine-logo.png",
         "category": "Industry",
         "title": "Nomination period open: 2025 Prevention through Design Award",
         "source": "Safety & Health Magazine",
@@ -126,7 +126,7 @@
         "link": "https://www.safetyandhealthmagazine.com/articles/26378-nomination-period-open-2025-prevention-through-design-award"
     },
 		{
-        "image": "./img/OHS_Logo.png",
+        "image": "./img/ohs-logo.png",
         "category": "Legal",
         "title": "OSHA Adjusts Penalty Amounts for Safety Violations for 2025",
         "source": "Occupational Health & Safety",
@@ -135,7 +135,7 @@
         "link": "https://ohsonline.com/Articles/2025/01/15/OSHA-Adjusts-Penalty-Amounts-for-Safety-Violations-for-2025.aspx?admgarea=news"
     },
 		{
-        "image": "./img/Safety & Health Magazine-logo.png",
+        "image": "./img/safety-and-health-magazine-logo.png",
         "category": "Industry",
         "title": "Wearables in the workplace: EEOC highlights risks and challenges",
         "source": "Safety & Health Magazine",
@@ -144,8 +144,8 @@
         "link": "https://www.safetyandhealthmagazine.com/articles/26323-wearables-in-the-workplace-eeoc-highlights-risks-and-challenges"
     },
 		{
-        "image": "./img/WJTV_12_News_Logo.png",
-        "category": "Research/Legal/Industry",
+        "image": "./img/wjtv-12-news-logo.png",
+        "category": "Industry",
         "title": "VelocityEHS Named a Leader for EHS Software for the Sixth Time",
         "source": "WJTV 12 News",
         "date": "January 09, 2025",
@@ -153,7 +153,7 @@
         "link": "https://www.wjtv.com/business/press-releases/globenewswire/9329390/velocityehs-named-a-leader-for-ehs-software-for-the-sixth-time/"
     },
 		{
-        "image": "./img/Modern_Materials_Handling_Logo.png",
+        "image": "./img/modern-materials-handling-logo.png",
         "category": "Industry",
         "title": "Ergonomics: Time to revisit wearables",
         "source": "Modern Materials Handling",
@@ -162,7 +162,7 @@
         "link": "https://www.mmh.com/article/time_to_revisit_wearables/ergonomics"
     },
 		{
-        "image": "./img/Handpak_Logo.png",
+        "image": "./img/handpak-logo.png",
         "category": "Research",
         "title": "HandPak 20th Anniversary",
         "source": "LinkedIn - Jim Potvin",
@@ -171,7 +171,7 @@
         "link": "https://www.linkedin.com/posts/jim-potvin-ab47a8b_today-i-am-celebrating-the-20th-anniversary-activity-7282385260837851136-tMYB"
     },
 		{
-        "image": "./img/OHS_Logo.png",
+        "image": "./img/ohs-logo.png",
         "category": "Legal",
         "title": "Washington L&I Launches Ergonomics Rulemaking for High-Risk Workers",
         "source": "Occupational Health & Safety",
@@ -180,8 +180,8 @@
         "link": "https://ohsonline.com/Articles/2025/01/02/Washington-L-and-I-Launches-Ergonomics-Rulemaking-for-High-Risk-Workers.aspx?admgarea=news"
     },
 		{
-        "image": "./img/Safety & Health Magazine-logo.png",
-        "category": "Research/Legal/Industry",
+        "image": "./img/safety-and-health-magazine-logo.png",
+        "category": "Industry",
         "title": "'Unfavorable working conditions' pave the way to trucker MSDs: study",
         "source": "Safety & Health Magazine",
         "date": "December 30, 2024",
@@ -189,7 +189,7 @@
         "link": "https://www.safetyandhealthmagazine.com/articles/26301-unfavorable-working-conditions-pave-the-way-to-trucker-msds-study"
     },
 		{
-        "image": "./img/RMCOEH_Logo.png",
+        "image": "./img/rmcoeh-logo.png",
         "category": "Research",
         "title": "Who’s Behind the Wheel?",
         "source": "LinkedIn - The Rocky Mountain Center for Occupational and Environmental Health (RMCOEH)",
@@ -198,7 +198,7 @@
         "link": "https://www.linkedin.com/posts/rmcoeh_publictransportation-transitworkers-occupationalhealthactivity-7275276247276908545-VwPA"
     },
 		{
-        "image": "./img/NSC_Logo.png",
+        "image": "./img/nsc-logo.png",
         "category": "Industry",
         "title": "NSC MSD Solutions Index Reveals Workplace Safety Progress",
         "source": "National Safety Council",
@@ -207,8 +207,8 @@
         "link": "https://www.nsc.org/newsroom/nsc-msd-solutions-index-reveals-workplace-safety-p"
     },
 		{
-        "image": "./img/HFES_Logo.png",
-        "category": "Education",
+        "image": "./img/hfes-logo.png",
+        "category": "Events",
         "title": "Informal Work and Ergonomics: Experiences from Chile and Ecuador",
         "source": "Human Factors and Ergonomics Society",
         "date": "December 19, 2024",
@@ -216,7 +216,7 @@
         "link": "https://www.hfes.org/About/Latest-News/informal-work-and-ergonomics-experiences-from-chile-and-ecuador"
     },
 		{
-        "image": "./img/US_DOL_Logo.png",
+        "image": "./img/department-of-labor-logo.png",
         "category": "Legal",
         "title": "US Department of Labor announces settlement with Amazon requiring corporate-wide ergonomic measures at facilities across the country",
         "source": "U.S. Department of Labor",
@@ -225,7 +225,7 @@
         "link": "http://www.dol.gov/newsroom/releases/osha/osha20241219"
     },
 		{
-        "image": "./img/Canadian_Occupational_Safety_Logo.png",
+        "image": "./img/canadian-occupational-safety-logo.png",
         "category": "Legal",
         "title": "Ontario’s $500,000 safety fine will reduce workplace injuries and fatalities, says expert",
         "source": "Canadian Occupational Safety",
@@ -234,7 +234,7 @@
         "link": "https://www.thesafetymag.com/ca/news/general/ontarios-500000-safety-fine-will-reduce-workplace-injuries-and-fatalities-says-expert/518743"
     },
 		{
-        "image": "./img/HFES_Logo.png",
+        "image": "./img/hfes-logo.png",
         "category": "Research",
         "title": "Submit Your Application for the 2025 Fellows Program",
         "source": "Human Factors and Ergonomics Society",
@@ -243,7 +243,7 @@
         "link": "https://www.hfes.org/About/Latest-News/submit-your-application-for-the-2025-fellows-program"
     },
 		{
-        "image": "./img/Safety & Health Magazine-logo.png",
+        "image": "./img/safety-and-health-magazine-logo.png",
         "category": "Research",
         "title": "'Strength breaks' at work may offset the effects of too much sitting",
         "source": "Safety & Health Magazine",
@@ -252,7 +252,7 @@
         "link": "https://www.safetyandhealthmagazine.com/articles/26239-strength-breaks-at-work-may-offset-the-effects-of-too-much-sitting"
     },
 		{
-        "image": "./img/NSC_Logo.png",
+        "image": "./img/nsc-logo.png",
         "category": "Research",
         "title": "NSC Commits Another $300,000 in Grants to Solve Most Common Workplace Injury",
         "source": "National Safety Council",
@@ -261,8 +261,8 @@
         "link": "https://www.nsc.org/newsroom/nsc-commits-another-$300,000-in-grants-to-solve-mo"
     },
 		{
-        "image": "./img/NIOSH_Logo.png",
-        "category": "Education",
+        "image": "./img/niosh-logo.png",
+        "category": "Industry",
         "title": "How to Use the New NLE Calc App Features to Help Prevent Back Injuries",
         "source": "NIOSH Science Blog",
         "date": "December 04, 2024",
