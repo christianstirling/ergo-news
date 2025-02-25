@@ -1,65 +1,272 @@
 [
     {
-        "image": "./img/ehstoday-logo.webp",
+        "image": "./img/Safety & Health Magazine-logo.png",
         "category": "Research",
-        "title": "Half of All Americans Have Musculoskeletal Pain",
-        "source": "EHS Today Staff",
-        "date": "June 20, 2022",
-        "summary": "A new report reveals that half of all Americans suffer from musculoskeletal (MSK) pain, a leading cause of disability and work absenteeism. The study highlights that MSK conditions, such as back pain, affect people across all age groups, and the growing prevalence of these disorders is linked to factors like sedentary lifestyles and aging. The report emphasizes the need for preventive measures and better access to treatment to manage MSK pain and improve quality of life for those affected.",
-        "link": "https://www.ehstoday.com/health/article/21242004/half-of-all-americans-have-msk-pain"
+        "title": "Qigong may help relieve chronic low back pain, study of military vets shows",
+        "source": "Safety & Health Magazine",
+        "date": "February 21, 2025",
+        "summary": "A study by Florida Atlantic University found that qigong significantly reduced pain intensity, disability, and sleep disturbances in veterans with chronic low back pain. Over eight weeks, veterans practicing qigong experienced greater improvements compared to a control group. Researchers also linked an inflammatory marker to pain-related disability and PTSD, which can worsen veterans’ health challenges. Qigong may enhance musculoskeletal strength, flexibility, posture, and mental well-being, helping veterans manage chronic pain.",
+        "link": "https://www.safetyandhealthmagazine.com/articles/26525-qigong-may-help-relieve-chronic-low-back-pain-study-of-military-vets-shows"
     },
-    {
-        "image": "./img/national-law-logo.webp",
+	{
+        "image": "./img/HFES_Logo.png",
+        "category": "Research",
+        "title": "FPE 2025-2026 Impact Grants",
+        "source": "Human Factors and Ergonomics Society",
+        "date": "February 17, 2025",
+        "summary": "The Foundation for Professional Ergonomics (FPE) is offering Impact Grants for 2025-2026 to support small projects that advance professional ergonomics, especially in developing countries. Grants range from $500 to $2,000 and serve as seed funding for pilot projects. The application deadline is April 30, 2025, with award decisions announced by August 15, 2025.",
+        "link": "https://www.hfes.org/About/Latest-News/fpe-2025-2026-impact-grants"
+    },
+		{
+        "image": "./img/OHS_Logo.png",
         "category": "Legal",
-        "title": "OSHA Launches National Emphasis Program to Expand on Heat Illness Prevention Campaign",
-        "source": "R. Lance Witcher & Lauren E. Lenhart",
-        "date": "June 14, 2022",
-        "summary": "OSHA has intensified efforts to address heat-related workplace injuries through a National Emphasis Program (NEP) launched in 2022. The NEP targets industries with significant heat exposure, focusing on workplaces with a heat index of 80°F or higher. OSHA will conduct inspections triggered by heat warnings and reported heat hazards, ensuring employers provide cool water, rest breaks, training, and other heat illness prevention measures. The program aims to increase enforcement and inspections to better protect workers from heat-related risks.",
-        "link": "https://natlawreview.com/article/osha-launches-national-emphasis-program-to-expand-heat-illness-prevention-campaign"
+        "title": "Trump to Nominate David Keeling as OSHA Administrator",
+        "source": "Occupational Health & Safety",
+        "date": "February 14, 2025",
+        "summary": "President Donald Trump has nominated David Keeling to be the next administrator of the Occupational Safety and Health Administration (OSHA). In a LinkedIn post, Keeling expressed gratitude for the nomination and enthusiasm for the opportunity to enhance workplace safety and health if confirmed. The nomination was announced to the Senate on February 12, 2025. Keeling has previously held leadership roles in global safety at Amazon and UPS.",
+        "link": "https://ohsonline.com/Articles/2025/02/14/White-House-Nominates-Keeting-to-Head-OSHA.aspx"
     },
-    {
-        "image": "./img/nsc-logo.webp",
+		{
+        "image": "./img/EHS_Today_Logo.png",
         "category": "Industry",
-        "title": "National Safety Council, Amazon and Top Industry Employers Pledge to Reduce Workplace Injuries by 25% by 2025",
-        "source": "National Safety Council",
-        "date": "June 6, 2022",
-        "summary": "In June 2022, the National Safety Council (NSC) launched the MSD Pledge, a historic initiative to reduce musculoskeletal disorders (MSDs), the most common workplace injury. The pledge, supported by Amazon and other leading organizations, aims to reduce MSD-related injuries by 25% by 2025. Participants commit to analyzing risks, collaborating on solutions, and fostering a safety culture. The MSD Pledge includes resources such as training, coaching, and an annual MSD Solutions Index to track progress, helping employers create safer, healthier workplaces for millions of workers globally.",
-        "link": "https://www.prnewswire.com/news-releases/national-safety-council-amazon-and-top-industry-employers-pledge-to-reduce-workplace-injuries-by-25-by-2025-301560449.html"
+        "title": "Poultry, Swine Plants Need to Reduce Injuries Says Secretary Su",
+        "source": "EHS Today",
+        "date": "January 14, 2025",
+        "summary": "A USDA report revealed that 81% of poultry processing workers are at increased risk of musculoskeletal disorders, prompting Acting Secretary of Labor Julie Su to emphasize the need for better worker safety measures. The study, part of the Poultry Processing Line Speed Evaluation Study (PULSE), found that injuries often go unreported and can be mitigated by increasing staffing and implementing effective ergonomic plans. Key findings indicated that workers at higher piece rates and evisceration line speeds experienced similar musculoskeletal disorder risks, and 40% reported moderate to severe work-related pain. Additionally, airborne peracetic acid levels exceeded safety limits in one in five jobs sampled across establishments. Read full report here: https://www.fsis.usda.gov/sites/default/files/media_file/documents/PULSE_PoultryStudy_250109_Final.pdf",
+        "link": "https://www.ehstoday.com/safety/news/55260587/poultry-swine-plants-need-to-reduce-injuries-says-secretary-su"
     },
-    {
-        "image": "./img/seattle-times-logo.webp",
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Education",
+        "title": "Managing Extended and Unusual Work Shifts",
+        "source": "Occupational Health & Safety",
+        "date": "February 07, 2025",
+        "summary": "Extended and unusual work schedules are increasingly common in high-demand fields like emergency response but can pose significant risks to worker health, safety, and productivity. These schedules can lead to fatigue, sleep disruption, and increased susceptibility to errors or accidents, with adjustment to night shifts often taking up to 10 days. Employers are encouraged to limit extended shifts, ensure adequate rest and recovery time, and recognize signs of fatigue among workers. By prioritizing health and safety, employers can maintain productivity while mitigating the negative effects associated with prolonged work hours.",
+        "link": "https://ohsonline.com/Articles/2025/02/07/Managing-Extended-and-Unusual-Work-Shifts.aspx"
+    },
+		{
+        "image": "./img/IEA_Logo.png",
+        "category": "Education",
+        "title": "FRAM, STAMP, and EAST: case study of a collaborative robot",
+        "source": "International Ergonomics Society",
+        "date": "February 05, 2025",
+        "summary": "This webinar is the second part of a series on systemic methods in complex and digitalized manufacturing, focusing on applied and analytical modeling using FRAM and STAMP-STPA. It introduces systems-thinking approaches to analyze cobot safety from a socio-technical perspective, addressing human-machine interactions in increasingly complex applications. The webinar presents and tests three safety analysis methods—STAMP, FRAM, and EAST—through a demonstrator case study. These methods highlight the importance of understanding distributed and emergent results from joint actions, moving beyond a reductionist view of individual failures or single-agent responsibilities.",
+        "link": "https://iea.cc/event/fram-stamp-and-east-case-study-of-a-collaborative-robot/"
+    },
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Legal",
+        "title": "Arizona Representative Introduces Bill to Abolish OSHA",
+        "source": "Occupational Health & Safety",
+        "date": "February 04, 2025",
+        "summary": "U.S. Representative Andy Biggs of Arizona has introduced the 'Nullify Occupational Safety and Health Administration Act' (NOSHA Act), aiming to abolish OSHA by repealing the Occupational Safety and Health Act of 1970. The bill has been referred to the Committee on Education and Workforce for review. Biggs argues that workplace safety should be managed by state governments and private employers, claiming that OSHA's regulations are excessive. Supporters believe the federal government should reduce its involvement in safety regulations, while critics warn that dismantling OSHA could weaken worker protections.",
+        "link": "https://ohsonline.com/Articles/2025/02/04/AZ-Rep-Introduces-Bill-to-Abolish-OSHA.aspx?admgarea=news"
+    },
+		{
+        "image": "./img/Modern_Materials_Handling_Logo.png",
         "category": "Industry",
-        "title": "Amid criticism of workplace injuries, Amazon signs a new safety pledge",
-        "source": "Lauren Rosenblatt",
-        "date": "June 3, 2022",
-        "summary": "Amazon has joined over 15 companies in the MSD Pledge, committing to reduce musculoskeletal disorders (MSDs) by 25% by 2025. MSDs, caused by repetitive movements or poor ergonomics, are common injuries like back and wrist pain. The pledge is part of Amazon's $12 million partnership with the National Safety Council. Despite facing criticism for high injury rates, Amazon aims to reduce MSD injuries by 40% and focuses on continuous improvement, employee feedback, and safety investments to enhance workplace conditions.",
-        "link": "https://www.seattletimes.com/business/amid-criticism-of-workplace-injuries-amazon-signs-a-new-safety-pledge/"
+        "title": "Using tech to prioritize employee safety",
+        "source": "Modern Materials Handling",
+        "date": "February 03, 2025",
+        "summary": "Canadian Tire implemented German Bionic's Apogee exoskeletons in its 75,000-square-foot warehouse to reduce lower back injuries and enhance worker safety. These powered suits provide up to 66 pounds of weight compensation per lift, easing the strain of physically demanding tasks like lifting and unloading goods. Employees report reduced fatigue and improved efficiency, contributing to faster order fulfillment and safer work practices. The exoskeletons also offer hybrid automation, AI-based learning, and real-time data tracking, supporting Canadian Tire’s workplace safety goals.",
+        "link": "https://www.mmh.com/article/using_tech_to_prioritize_employee_safety/ergonomics"
     },
-    {
-        "image": "./img/sciencedirect-logo.png",
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Education",
+        "title": "Encouraging Workers to Embrace Ergonomic Work Strategies",
+        "source": "Occupational Health & Safety",
+        "date": "January 31, 2025",
+        "summary": "To effectively communicate and encourage less experienced workers to use ergonomic work strategies, supervisors should engage in hands-on training that demonstrates the strategies and their benefits, allowing workers to practice and receive feedback. Traditional training often falls short due to its generic nature and lack of practical application, so it's important to use adult learning principles and focus on skill transfer. Short, focused microlearning sessions can enhance retention and application of ergonomic strategies in the workplace. Additionally, measuring the impact of the training through injury statistics and worker surveys can help ensure its effectiveness and justify the investment in developing solid ergonomic practices.",
+        "link": "https://ohsonline.com/Articles/2025/01/31/Encouraging-Workers-to-Embrace-Ergonomic-Work-Strategies.aspx"
+    },
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Education",
+        "title": "How to Find the Most Ergonomic Way to Do a Job",
+        "source": "Occupational Health & Safety",
+        "date": "January 30, 2025",
+        "summary": "Ergonomics aims to fit work to people, minimizing the risk of musculoskeletal disorders and enhancing performance. Effective ergonomic strategies can be identified by consulting experienced workers, those who have recovered from injuries, and smaller workers who have developed unique techniques for completing tasks. While these strategies can help reduce injury risks, they are not a substitute for necessary engineering controls to fix the root causes of workplace hazards. Organizations should document and share these strategies through visual aids and training to promote safe practices among all employees.",
+        "link": "https://ohsonline.com/Articles/2025/01/30/How-to-Find-the-Most-Ergonomic-Way-to-Do-a-Job.aspx"
+    },
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Legal",
+        "title": "DOL Halts All Activity Tied to Executive Order 11246",
+        "source": "Occupational Health & Safety",
+        "date": "January 27, 2025",
+        "summary": "The U.S. Department of Labor has halted all investigative and enforcement actions related to the rescinded Executive Order 11246. Acting Secretary of Labor Vince Micone issued Secretary’s Order 03-2025, instructing department employees to stop these activities immediately. This directive impacts all employees, including those in the Office of Federal Contract Compliance Programs, the Office of Administrative Law Judges, and the Administrative Review Board.",
+        "link": "https://ohsonline.com/Articles/2025/01/27/DOL-Halts-All-Activity-Tied-to-Executive-Order-11246.aspx?admgarea=news"
+    },
+		{
+        "image": "./img/IEA_Logo.png",
+        "category": "Education",
+        "title": "Using STAMP-STPA in a real case of complex manual assembly in aircraft engine manufacturing",
+        "source": "International Ergonomics Society",
+        "date": "January 25, 2025",
+        "summary": "The first part of the webinar series, hosted by the IEA Resilience Engineering Committee, focuses on applying systemic methods like FRAM and STAMP-STPA in complex and digitalized manufacturing environments. The session highlights a year-long project in an aerospace manufacturing facility, showcasing how these methods can enhance quality and safety by analyzing the entire sociotechnical ecosystem. The discussion emphasizes how AcciMap and STAMP can identify control failures and improve processes through a comprehensive understanding of complex systems. Participants are encouraged to reflect on how these methodologies contribute to resilient, efficient, and continuously improving manufacturing practices.",
+        "link": "https://iea.cc/event/using-stamp-stpa-in-a-real-case-of-complex-manual-assembly-in-aircraft-engine-manufacturing/"
+    },
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Education",
+        "title": "ASSP Opens Registration for Safety 2025 Conference and Expo",
+        "source": "Occupational Health & Safety",
+        "date": "January 21, 2025",
+        "summary": "Safety 2025 will feature over 200 educational sessions aimed at providing practical strategies for enhancing workplace safety. The event, described by ASSP President Pam Walaski as a dynamic learning and networking opportunity, will showcase more than 600 exhibitors and allow participants to earn up to 1.5 continuing education units (CEUs). An interactive Career Advancement Center will also be available for professionals at all career stages. Early registration discounts are available until March 13, with additional savings for groups and an expo-only pass option for attendees focused on the exhibit floor.",
+        "link": "https://ohsonline.com/Articles/2025/01/21/ASSP-Opens-Registration-for-Safety-2025-Conference-and-Expo.aspx?admgarea=news"
+    },
+		{
+        "image": "./img/Safety & Health Magazine-logo.png",
+        "category": "Industry",
+        "title": "Nomination period open: 2025 Prevention through Design Award",
+        "source": "Safety & Health Magazine",
+        "date": "January 17, 2025",
+        "summary": "NIOSH is accepting nominations for its Prevention through Design Award until March 3, recognizing efforts to reduce workplace hazards during the design phase of projects. The award honors individuals, teams, and organizations that have effectively eliminated or reduced risks through design improvements or contributions to knowledge on PtD solutions. Applicants are encouraged to address specific questions related to problem-solving, design improvements, health and safety benefits, and risk assessment in their nominations. Submissions can be sent via email to ptd@cdc.gov with 'PtD Award Nomination' in the subject line.",
+        "link": "https://www.safetyandhealthmagazine.com/articles/26378-nomination-period-open-2025-prevention-through-design-award"
+    },
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Legal",
+        "title": "OSHA Adjusts Penalty Amounts for Safety Violations for 2025",
+        "source": "Occupational Health & Safety",
+        "date": "January 15, 2025",
+        "summary": "Effective January 15, 2025, OSHA penalties will increase due to an annual inflation adjustment mandated by federal law. Maximum fines for serious and other-than-serious violations will rise to $16,550 per violation, while willful or repeated violations will increase to $165,514. These adjustments follow the Federal Civil Penalties Inflation Adjustment Act to maintain deterrence. The DOL urges employers to comply with OSHA regulations to ensure workplace safety and avoid costly fines.",
+        "link": "https://ohsonline.com/Articles/2025/01/15/OSHA-Adjusts-Penalty-Amounts-for-Safety-Violations-for-2025.aspx?admgarea=news"
+    },
+		{
+        "image": "./img/Safety & Health Magazine-logo.png",
+        "category": "Industry",
+        "title": "Wearables in the workplace: EEOC highlights risks and challenges",
+        "source": "Safety & Health Magazine",
+        "date": "January 14, 2025",
+        "summary": "The Equal Employment Opportunity Commission (EEOC) has issued a reminder to employers that employment discrimination laws apply to the use of data collected from wearable devices in the workplace. This includes smart watches, sensors, smart glasses, and other technology that monitors employee health and safety. Employers must ensure they do not conduct unlawful disability-related inquiries under the Americans with Disabilities Act and must comply with nondiscrimination laws when using wearable data for employment decisions. The EEOC emphasizes that there is no exemption from civil rights laws for high-tech workplace practices, urging employers to carefully manage data collection, storage, and usage.",
+        "link": "https://www.safetyandhealthmagazine.com/articles/26323-wearables-in-the-workplace-eeoc-highlights-risks-and-challenges"
+    },
+		{
+        "image": "./img/WJTV_12_News_Logo.png",
+        "category": "Research/Legal/Industry",
+        "title": "VelocityEHS Named a Leader for EHS Software for the Sixth Time",
+        "source": "WJTV 12 News",
+        "date": "January 09, 2025",
+        "summary": "VelocityEHS has been named a Leader in the 2025 Verdantix Green Quadrant for EHS Software, marking its sixth recognition for innovation in AI-driven ergonomics, safety solutions, and platform architecture. The company's Accelerate Platform features user-friendly tools, centralized risk management, and advanced reporting capabilities. Notably, VelocityEHS achieved perfect scores in ergonomics, driven by its motion-capture AI innovations, and leads in categories such as chemicals management and safety. Recognized globally, VelocityEHS supports over 10 million users with comprehensive EHS and ESG solutions.",
+        "link": "https://www.wjtv.com/business/press-releases/globenewswire/9329390/velocityehs-named-a-leader-for-ehs-software-for-the-sixth-time/"
+    },
+		{
+        "image": "./img/Modern_Materials_Handling_Logo.png",
+        "category": "Industry",
+        "title": "Ergonomics: Time to revisit wearables",
+        "source": "Modern Materials Handling",
+        "date": "January 08, 2025",
+        "summary": "Wearable technology in warehouses, including exoskeletal suits and IT-driven devices like scanners, RFID gloves, and AI-powered analytics, is enhancing productivity, accuracy, and worker safety. Companies like DHL, BR Williams, and HeroWear report significant efficiency gains, reduced fatigue, and fewer injuries with these innovations. AI-driven software and RFID advancements are further optimizing workflows, enabling real-time decision-making and seamless data integration. As adoption grows, wearables are reshaping warehouse operations by improving efficiency, reducing errors, and enhancing worker well-being.",
+        "link": "https://www.mmh.com/article/time_to_revisit_wearables/ergonomics"
+    },
+		{
+        "image": "./img/Handpak_Logo.png",
         "category": "Research",
-        "title": "Methods for measuring physical workload among commercial cleaners: A scoping review",
-        "source": "Wonil Lee, Jia-Hua Lin, Ninica Howard, Stephen Bao",
-        "date": "June 1, 2022",
-        "summary": "This scoping review examines the methods used to measure physical workload among commercial cleaners, a labor-intensive profession with high musculoskeletal disorder (MSD) risks. The review identifies 48 studies, primarily employing direct measurements, and highlights the use of multiple methods to assess physical workload factors like task duration, posture, and force exertion. It discusses various measurement tools, including observational assessments and self-reports, while also addressing their strengths and limitations for researchers and safety practitioners. The findings emphasize the need for combined approaches to assess external and internal exposures, as well as the acute physical responses associated with cleaning tasks.",
-        "link": "https://www.sciencedirect.com/science/article/abs/pii/S0169814122000609"
+        "title": "HandPak 20th Anniversary",
+        "source": "LinkedIn - Jim Potvin",
+        "date": "January 07, 2025",
+        "summary": "On January 7, 2025, the 20th anniversary of the HandPak software package was celebrated, marking its impact since its release in 2005 and the launch of its web-based version in 2016. HandPak, a tool for quantitative ergonomics analyses of hand, wrist, and forearm-intensive tasks, integrates findings from numerous scientific publications. Used by nearly 100 organizations and freely provided to over 20 universities, it has played a key role in advancing ergonomic research and practice",
+        "link": "https://www.linkedin.com/posts/jim-potvin-ab47a8b_today-i-am-celebrating-the-20th-anniversary-activity-7282385260837851136-tMYB"
     },
-    {
-        "image": "./img/mmh-logo.png",
-        "category": "Industry",
-        "title": "Lightening loads with warehouse ergonomics",
-        "source": "Bridget McCrea",
-        "date": "May 27, 2022",
-        "summary": "As labor shortages persist, companies are focusing on ergonomics to improve worker safety and productivity. In industries like warehousing, adjustable equipment and wearable exoskeletons help reduce injuries and fatigue. With automation still costly, ergonomic solutions offer an affordable way to support workers and boost retention.",
-        "link": "https://www.mmh.com/article/lightening_loads_with_warehouse_ergonomics"
+		{
+        "image": "./img/OHS_Logo.png",
+        "category": "Legal",
+        "title": "Washington L&I Launches Ergonomics Rulemaking for High-Risk Workers",
+        "source": "Occupational Health & Safety",
+        "date": "January 02, 2025",
+        "summary": "The Washington State Department of Labor & Industries (L&I) is developing ergonomics rules to reduce work-related musculoskeletal disorders (WMSDs) in high-risk industries, starting with Scheduled Airlines - Ground Crew Operations. A virtual scoping meeting on January 9, 2025, will gather stakeholder input on WMSD hazards and rule priorities, with written feedback accepted until January 27, 2025. This follows a 2023 mandate allowing L&I to regulate industries with high worker injury rates, with only one rule permitted per year. L&I emphasizes stakeholder involvement to create effective, industry-specific regulations.",
+        "link": "https://ohsonline.com/Articles/2025/01/02/Washington-L-and-I-Launches-Ergonomics-Rulemaking-for-High-Risk-Workers.aspx?admgarea=news"
     },
-    {
-        "image": "./img/exoskeleton-report-logo.png",
+		{
+        "image": "./img/Safety & Health Magazine-logo.png",
+        "category": "Research/Legal/Industry",
+        "title": "'Unfavorable working conditions' pave the way to trucker MSDs: study",
+        "source": "Safety & Health Magazine",
+        "date": "December 30, 2024",
+        "summary": "A study by Kerman University of Medical Sciences found that 61.8% of truck drivers suffer from musculoskeletal disorders (MSDs), with the shoulder, neck, lower back, and knees most commonly affected. Risk factors include prolonged static and awkward postures, whole-body vibration, and load handling. MSDs, such as tendinitis and back strains, are the leading workplace injury and a major cause of disability, according to the National Safety Council. Researchers recommend training programs, ergonomic interventions, and regular work environment assessments to reduce MSD prevalence among truck drivers.",
+        "link": "https://www.safetyandhealthmagazine.com/articles/26301-unfavorable-working-conditions-pave-the-way-to-trucker-msds-study"
+    },
+		{
+        "image": "./img/RMCOEH_Logo.png",
+        "category": "Research",
+        "title": "Who’s Behind the Wheel?",
+        "source": "LinkedIn - The Rocky Mountain Center for Occupational and Environmental Health (RMCOEH)",
+        "date": "December 25, 2024",
+        "summary": "A recent study conducted at the Rocky Mountain Center for Occupational and Environmental Health (RMCOEH) analyzed 293 new bus operators, who were on average 42.76 years old, mostly male (73.5%), and included a significant proportion from minority backgrounds (45.7%). Notably, two-thirds (66.3%) had no prior experience in commercial driving, with most coming from roles in transportation, protective services, or sales. Health risk levels were classified as low (49.5%), medium (37.9%), and high (12.6%), with risks including potential ergonomic issues, chronic conditions, and lifestyle factors such as obesity and physical inactivity. This data highlights the need for transit authorities to address health risks and support operators’ transition to their roles.",
+        "link": "https://www.linkedin.com/posts/rmcoeh_publictransportation-transitworkers-occupationalhealthactivity-7275276247276908545-VwPA"
+    },
+		{
+        "image": "./img/NSC_Logo.png",
         "category": "Industry",
-        "title": "NIOSH Uploads Six Amazing Exoskeleton Webinars to YouTube",
-        "source": "Bobby Marinov",
-        "date": "April 20, 2022",
-        "summary": "NIOSH has uploaded several informative webinars on exoskeleton technology to YouTube. These sessions, recorded between 2019 and 2021, cover topics like the use of exosuits in workplaces and healthcare, Boeing’s experience with industrial exoskeletons, and Toyota’s efforts to reduce musculoskeletal disorders. Other presentations discuss the value of ergonomics, challenges in surgery, and emerging safety technologies. These webinars offer valuable insights into the latest developments in exoskeletons and their impact on worker health and performance.",
-        "link": "https://exoskeletonreport.com/2022/04/niosh-uploads-six-amazing-exoskeleton-webinars-to-youtube/"
+        "title": "NSC MSD Solutions Index Reveals Workplace Safety Progress",
+        "source": "National Safety Council",
+        "date": "December 23, 2024",
+        "summary": "The National Safety Council’s 2023-2024 MSD Solutions Index Pledge Community Report highlights progress in reducing workplace musculoskeletal disorders (MSDs) through increased ergonomics programs, proactive prevention measures, and industry collaboration. The survey found that 81.4% of organizations are advancing or proactive in MSD prevention, with 11.6% reaching the innovating category—an improvement from the previous year. Key findings include greater employee involvement in safety decisions, increased focus on leading indicators, and expanded sharing of MSD prevention solutions. The report recommends strengthening safety culture, prioritizing worker feedback, setting measurable risk reduction goals, and leveraging new technologies.",
+        "link": "https://www.nsc.org/newsroom/nsc-msd-solutions-index-reveals-workplace-safety-p"
+    },
+		{
+        "image": "./img/HFES_Logo.png",
+        "category": "Education",
+        "title": "Informal Work and Ergonomics: Experiences from Chile and Ecuador",
+        "source": "Human Factors and Ergonomics Society",
+        "date": "December 19, 2024",
+        "summary": "The IEA Informal Work Technical Committee is hosting a free webinar on January 29, 2025, at 16:00 UTC, focusing on informal work and ergonomics in Chile and Ecuador. Organized with Universidad de Atacama and Pontificia Universidad Católica del Ecuador, it will explore human factors methodologies in diagnosing and transforming informal work. The 90-minute webinar will be in Spanish with simultaneous English translation, and registration is free but required. Attendees can complete a post-webinar survey to receive an e-certificate of completion.",
+        "link": "https://www.hfes.org/About/Latest-News/informal-work-and-ergonomics-experiences-from-chile-and-ecuador"
+    },
+		{
+        "image": "./img/US_DOL_Logo.png",
+        "category": "Legal",
+        "title": "US Department of Labor announces settlement with Amazon requiring corporate-wide ergonomic measures at facilities across the country",
+        "source": "U.S. Department of Labor",
+        "date": "December 19, 2024",
+        "summary": "The U.S. Department of Labor announced a settlement with Amazon to improve ergonomic safety and address hazardous conditions across its facilities. Amazon will implement risk assessments, site-specific controls, and employee training while OSHA monitors compliance. The agreement includes a $145,000 penalty and biannual progress reviews. It does not affect an ongoing investigation into alleged concealment of injury rates.",
+        "link": "http://www.dol.gov/newsroom/releases/osha/osha20241219"
+    },
+		{
+        "image": "./img/Canadian_Occupational_Safety_Logo.png",
+        "category": "Legal",
+        "title": "Ontario’s $500,000 safety fine will reduce workplace injuries and fatalities, says expert",
+        "source": "Canadian Occupational Safety",
+        "date": "December 19, 2024",
+        "summary": "Ontario plans a $500,000 minimum fine for employers responsible for multiple workplace injuries or deaths, aiming to curb rising incidents. Research by Dr. Emile Tompa shows penalties reduce injuries, unlike inspections without penalties. Part of the Working for Workers Act, the fine would be Canada’s highest and aims to improve compliance. Tompa stresses proactive measures and tailored enforcement for workplace safety.",
+        "link": "https://www.thesafetymag.com/ca/news/general/ontarios-500000-safety-fine-will-reduce-workplace-injuries-and-fatalities-says-expert/518743"
+    },
+		{
+        "image": "./img/HFES_Logo.png",
+        "category": "Research",
+        "title": "Submit Your Application for the 2025 Fellows Program",
+        "source": "Human Factors and Ergonomics Society",
+        "date": "December 18, 2024",
+        "summary": "The HFES Fellows Selection Committee invites applications for the 2025 HFES Fellow designation, recognizing outstanding professional achievements and contributions. Members may apply for themselves or nominate others. Applications are due by February 28, 2025. More details are available at the HFES Fellows Program website.",
+        "link": "https://www.hfes.org/About/Latest-News/submit-your-application-for-the-2025-fellows-program"
+    },
+		{
+        "image": "./img/Safety & Health Magazine-logo.png",
+        "category": "Research",
+        "title": "'Strength breaks' at work may offset the effects of too much sitting",
+        "source": "Safety & Health Magazine",
+        "date": "December 11, 2024",
+        "summary": "Ashley Gluchowski, a clinical exercise physiologist at the University of Salford, recommends integrating strength training into the workplace to counteract the effects of sedentary desk jobs. Her eight-week program includes bodyweight exercises like squats and lunges in the first two weeks, progressing to kettlebells or dumbbells for added resistance in later weeks. This approach not only builds strength but also improves sleep, mood, and immunity.",
+        "link": "https://www.safetyandhealthmagazine.com/articles/26239-strength-breaks-at-work-may-offset-the-effects-of-too-much-sitting"
+    },
+		{
+        "image": "./img/NSC_Logo.png",
+        "category": "Research",
+        "title": "NSC Commits Another $300,000 in Grants to Solve Most Common Workplace Injury",
+        "source": "National Safety Council",
+        "date": "December 09, 2024",
+        "summary": "The National Safety Council (NSC) has announced the return of its Research to Solutions (R2S) and MSD Solutions Pilot Grant programs, awarding up to $300,000 to advance musculoskeletal disorder (MSD) prevention. The R2S grant offers up to $50,000 per project for research on MSD risk reduction, while the Pilot Grant provides up to $20,000 per project to trial emerging technologies in real-world applications. Winners will be announced in June 2025, with findings presented at the 2026 NSC Safety Congress & Expo. These grants are part of NSC’s MSD Solutions Lab, which aims to develop scalable MSD prevention solutions.",
+        "link": "https://www.nsc.org/newsroom/nsc-commits-another-$300,000-in-grants-to-solve-mo"
+    },
+		{
+        "image": "./img/NIOSH_Logo.png",
+        "category": "Education",
+        "title": "How to Use the New NLE Calc App Features to Help Prevent Back Injuries",
+        "source": "NIOSH Science Blog",
+        "date": "December 04, 2024",
+        "summary": "Back injuries are a leading cause of work-related musculoskeletal disorders, accounting for 40% of cases requiring time off work. Repetitive heavy lifting or improper lifting posture are major contributors to these injuries. In response, NIOSH introduced the NIOSH Lifting Equation (NLE) Calc app in 2017 to help assess lifting risks and prevent injuries by calculating the Recommended Weight Limit (RWL) and Lifting Index (LI). The app was updated in September 2024, with new features designed to improve usability and efficiency, incorporating feedback from users to enhance its effectiveness in reducing workplace lifting risks.",
+        "link": "https://blogs.cdc.gov/niosh-science-blog/2024/12/04/nle-calc-2024/"
     }
 ]
