@@ -495,6 +495,10 @@ button, a {
         transparent 48%, white 48%,
         white 52%, transparent 52%
     );
+
+    
+    flex-basis: 100%;
+    flex-grow: 0;
 }
 
 .reverse-inner {
@@ -724,7 +728,7 @@ button, a {
     }
 
     .image-container {
-        height: 30%;
+        height: 50%;
     }
 
     .card-image {
