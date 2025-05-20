@@ -1,12 +1,30 @@
 [
     {
+        "image": "./img/osha-logo.png",
+        "category": "Legal",
+        "title": "Long Work Hours, Extended or Irregular Shifts, and worker Fatigue",
+        "source": "Osha",
+        "date": "May 20, 2025",
+        "summary":"The U.S. Occupational Safety and Health Administration (OSHA) highlights the significant risks associated with worker fatigue due to extended or irregular shifts. Fatigue can lead to decreased alertness, impaired decision-making, and increased risk of accidents. Industries such as healthcare, transportation, and manufacturing are particularly affected. OSHA recommends strategies like limiting shift lengths, ensuring adequate rest periods, and providing training to mitigate fatigue-related hazards. Employers are encouraged to recognize fatigue symptoms and implement preventive measures to safeguard worker health and safety.",
+        "link": "https://www.osha.gov/worker-fatigue"
+    },
+	{
+        "image": "./img/Puget_Sound_Chapter_HFES.png",
+        "category": "Events",
+        "title": "24th Annual Human Factors adn Ergonomics Symposium",
+        "source": "The Puget Sound Chapter of the Human Factors and Ergonomics Society",
+        "date": "April, 2025",
+        "summary":"The 2025 Puget Sound Human Factors and Ergonomics Society (PSHFES) Symposium is on May 29, 2025, from 8:00 AM to 3:00 PM at the University of Washington’s Center for Urban Horticulture, Seattle. This hybrid event includes both in-person and virtual attendance. Key speakers include Dr. Andrew Thatcher and Dr. Camille Peres. Topics cover workplace ergonomics, wearable tech, and human-machine interaction. Emerging research from the University of Washington will also be highlighted. Early bird registration ends May 15. Recordings will be available to registered attendees.",
+        "link": "https://www.pshfes.org/symposium2025"
+    },
+	{
         "image": "./img/safety-and-health-magazine-logo.png",
         "category": "Research",
         "title": "Qigong may help relieve chronic low back pain, study of military vets shows",
         "source": "Safety & Health Magazine",
         "date": "February 21, 2025",
         "summary": "A study by Florida Atlantic University found that qigong significantly reduced pain intensity, disability, and sleep disturbances in veterans with chronic low back pain. Over eight weeks, veterans practicing qigong experienced greater improvements compared to a control group. Researchers also linked an inflammatory marker to pain-related disability and PTSD, which can worsen veterans’ health challenges. Qigong may enhance musculoskeletal strength, flexibility, posture, and mental well-being, helping veterans manage chronic pain.",
-        "link": "https://www.safetyandhealthmagazine.com/articles/26525-qigong-may-help-relieve-chronic-low-back-pain-study-of-military-vets-shows"
+        "link": "https://www.safetyandhealthmagazine.com/articles/26525-qigong-may-help-relieve-chronic-low-back-pain-study-of-military-vets-shows"		
     },
 	{
         "image": "./img/hfes-logo.png",
