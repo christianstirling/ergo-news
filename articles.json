@@ -1,5 +1,23 @@
 [
-    {
+	{
+        "image": "img/hfes-logo.png",
+        "category": "Events",
+        "title": "ASPIRE International Annual Meeting",
+        "source": "Human Factors and Ergonomics Society",
+        "date": "May 21, 2025",
+        "summary": "The 2025 ASPIRE HFES International Annual Meeting will be held October 13–17 in Indianapolis, Indiana. This newly rebranded conference (formerly the HFES Annual Meeting) emphasizes Accessibility, Sustainability, Participation, Inclusivity, Resilience, and Equity. It will showcase innovative human factors and ergonomics research, promote global collaboration, and feature technical sessions, workshops, networking, and student opportunities. The event aims to foster meaningful, cross-disciplinary discussions and solutions to real-world challenges.",
+	"link": "https://www.hfes.org/Events/ASPIRE-International-Annual-Meeting/About-the-2025-Meeting/About-the-2025-Meeting-"
+    },
+	{
+        "image": "./img/modern-materials-handling-logo.png",
+        "category": "Industry",
+        "title": "Making a business case for warehouse ergonomics",
+        "source": "ModernMaterials Handling",
+        "date": "May 21, 2025",
+        "summary": "Investing in warehouse ergonomics enhances worker safety, efficiency, and morale while reducing injury-related costs. Poor ergonomics often leads to musculoskeletal disorders (MSDs), which are common in physically demanding warehouse environments. Implementing ergonomic solutions—such as adjustable workstations, lift-assist devices, and automation—can significantly lower physical strain. Research shows these interventions reduce workers’ compensation costs by up to 68% and claims by 39%. Additionally, improved ergonomics can increase productivity by 25% and reduce employee turnover by 48%. A strong ergonomic strategy supports long-term operational success, demonstrating that health-focused design is not just ethical—it’s also economically smart.",
+	"link": "https://www.mmh.com/article/making_a_business_case_for_warehouse_ergonomics/ergonomics"
+    },
+    	{
         "image": "./img/osha-logo.png",
         "category": "Legal",
         "title": "Long Work Hours, Extended or Irregular Shifts, and worker Fatigue",
