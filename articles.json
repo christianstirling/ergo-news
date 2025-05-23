@@ -1,5 +1,32 @@
 [
 	{
+  	"image": "./img/auburn-ose-logo.png",
+  	"category": "Events",
+  	"title": "ISE doctoral student recognized as Ergonomic Practitioner of the Year",
+  	"source": "Auburn University",
+  	"date": "May 23, 2025",
+  	"summary": "Auburn University PhD student Francisco Maldonado has won the IISE Practitioner Doctoral Research Award for his innovative work in industrial and systems engineering. His research focuses on enhancing operational efficiency in complex systems and has direct applications in industry, showcasing the practical impact of academic scholarship.",
+  	"link": "https://eng.auburn.edu/news/2025/05/ise-doctoral-practitioner-award"
+    },
+	{
+  	"image": "./img/osh_Canadian.png",
+  	"category": "Industry",
+  	"title": "The Missing Link in Warehouse Safety",
+  	"source": "Occupational Health & Safety Canada",
+  	"date": "May 23, 2025",
+  	"summary": "This opinion piece from OHS Canada emphasizes the often-overlooked ergonomic risks in warehouse environments. It argues that while safety programs focus heavily on equipment and procedures, they frequently neglect musculoskeletal health. The article advocates for integrating ergonomics into safety planning and worker training to reduce injuries and improve productivity.",
+  	"link": "https://www.ohscanada.com/opinions/the-missing-link-in-warehouse-safety/"
+    },
+	{
+  	"image": "./img/hfes-logo.png",
+ 	"category": "Research",
+  	"title": "Open Call for Proposal Reviewers for HFES Seed Grants Targeting the Intersections of HFE and Anti-Racism/Anti-Bias",
+  	"source": "Human Factors and Ergonomics Society",
+  	"date": "May 21, 2025",
+  	"summary": "HFES is seeking reviewers for its seed grant program focused on projects at the intersection of human factors/ergonomics and anti-racism/anti-bias. Selected reviewers will assess proposals for their scientific merit and societal impact. This initiative aims to promote inclusive research and foster diversity within the HFE community.",
+  	"link": "https://www.hfes.org/About/Latest-News/open-call-for-proposal-reviewers-for-hfes-seed-grants-targeting-the-intersections-of-hfe-and-anti-racismanti-bias-1"   
+    },
+	{
         "image": "img/hfes-logo.png",
         "category": "Events",
         "title": "ASPIRE International Annual Meeting",
