@@ -1,5 +1,15 @@
 [
 	{
+	"image": "./img/Frontiers.png",
+	"category": "Research",
+	"title": "Global burden of occupational ergonomic factor-induced low back pain, 1990~2021: data analysis and projections of the global burden of disease",
+	"source": "Frontiers in Public Health",
+	"date": "May 28, 2025",
+	"summary": "This systematic review examines ergonomic interventions in diverse workplace settings and their impact on public health outcomes. The study identifies consistent improvements in musculoskeletal health, worker productivity, and injury reduction, emphasizing the role of ergonomics in occupational health strategies.",
+	"link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1573828/full"
+    },
+
+	{
   	"image": "./img/auburn-ose-logo.png",
   	"category": "Events",
   	"title": "ISE doctoral student recognized as Ergonomic Practitioner of the Year",
