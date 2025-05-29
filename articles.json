@@ -1,5 +1,35 @@
 [
 	{
+	"image": "./img/designwanted_logo.png",
+	"category": "Industry",
+	"title": "Empowering people living with Parkinson through an inclusive and accessible keyboard",
+	"source": "DesignWanted",
+	"date": "May 29, 2025",
+	"summary": "Designer Alessandra Galli has developed OnCUE, a wearable device aimed at improving mobility for individuals with Parkinson’s disease. Combining ergonomic design and auditory cues, OnCUE helps reduce freezing of gait episodes, offering a user-centered solution that enhances independence and quality of life.",
+	"link": "https://designwanted.com/oncue-parkinson-alessandra-galli/"
+    },
+
+	{
+	"image": "./img/ohs-logo.png",
+	"category": "Industry",
+	"title": "German Bionic Unveils EXIA: The First Augmented AI-Powered Exoskeleton",
+	"source": "Occupational Health & Safety (OH&S)",
+	"date": "May 29, 2025",
+	"summary": "German Bionic has launched EXIA, the world’s first AI-powered ergonomic exoskeleton designed to support lifting tasks in logistics and manufacturing. EXIA adapts in real time to user movements and tasks, reducing strain and injury risk. This marks a major advancement in workplace wearable robotics.",
+	"link": "https://ohsonline.com/articles/2025/05/28/german-bionic-unveils-exia-the-first-augmented-ai-powered-exoskeleton.aspx?admgarea=ht.Ergonomics"
+    },
+
+	{
+	"image": "./img/APN_Logo.png",
+	"category": "Industry",
+	"title": "Shifting Work Patterns Demand Smarter Ergonomic Solutions, Says Dr. Alan Hedge, the World-Renowned Ergonomist",
+	"source": "APN News",
+	"date": "May 29, 2025",
+	"summary": "Dr. Alan Hedge emphasizes the urgent need for adaptive ergonomic solutions amid evolving work environments, including hybrid and remote setups. He advocates for proactive design that supports well-being, productivity, and long-term health, highlighting how modern ergonomics must align with flexible work patterns.",
+	"link": "https://www.apnnews.com/shifting-work-patterns-demand-smarter-ergonomic-solutions-says-dr-alan-hedge-the-world-renowned-ergonomist/"
+    },
+
+	{
 	"image": "./img/Frontiers.png",
 	"category": "Research",
 	"title": "Global burden of occupational ergonomic factor-induced low back pain, 1990~2021: data analysis and projections of the global burden of disease",
