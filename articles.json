@@ -1,4 +1,86 @@
 [
+    {
+	"image": "./img/ohs-logo.png",
+	"category": "Research",
+	"title": "Ergonomic Research Highlights Role of Exoskeletons in Preventing Work Related Injuries",
+	"source": "Occupational Health & Safety Online",
+	"date": "June 3, 2025",
+	"summary": "New ergonomic research highlights the effectiveness of exoskeletons in reducing work-related injuries. Studies show wearable devices can alleviate strain in physically demanding jobs, signaling a promising direction for workplace injury prevention technology.",
+	"link": "https://ohsonline.com/articles/2025/06/03/ergonomic-research-highlights-role-of-exoskeletons-in-preventing-work-related-injuries.aspx"
+    },
+	{
+	"image": "./img/ohs-logo.png,
+	"category": "Events",
+	"title": "ASSP Names Five Industry Leaders as 2025 Society Fellows",
+	"source": "Occupational Health & Safety Online",
+	"date": "June 2, 2025",
+	"summary": "ASSP has named five professionals as 2025 Society Fellows for their outstanding contributions to the safety field. The announcement recognizes innovation, research, and leadership—including efforts to advance ergonomic safety and workplace health initiatives.",
+	"link": "https://ohsonline.com/articles/2025/05/05/assp-names-five-industry-leaders-as-2025-society-fellows.aspx"
+    },
+	{
+	"image": "./img/NewsCop.png",
+	"category": "Research",
+	"title": "Heads up … tech neck is becoming a major growing pain and a public health concern",
+	"source": "NewsCop",
+	"date": "May 31, 2025",
+	"summary": "Tech neck, caused by prolonged device use with poor posture, is emerging as a public health issue. Experts warn of chronic pain, spinal degeneration, and long-term musculoskeletal problems if left unaddressed. The article urges increased awareness and proactive ergonomic habits in both work and daily life.",
+	"link": "https://newscop.com.au/2025/05/31/heads-up-tech-neck-is-becoming-a-major-growing-pain-and-a-public-health-concern/"
+    },
+	{
+	"image": "./img/SafetyCulture_Logo.png",
+	"category": "Industry",
+	"title": "5 Essential Ergonomic Practices for Manufacturing Teams",
+	"source": "SafetyCulture",
+	"date": "May 30, 2025",
+	"summary": "Ergonomics in manufacturing is critical for injury prevention, worker satisfaction, and productivity. This guide outlines key ergonomic principles, risk factors in industrial settings, and best practices for implementation, such as workstation design, proper equipment use, and employee training.",
+	"link": "https://safetyculture.com/topics/ergonomics-safety/ergonomics-in-manufacturing/"
+    },
+	{
+	"image": "./img/RegionCanberra_Logo.png",
+	"category": "Industry",
+	"title": "Letting your employees work from home? Here's what you've signed up for",
+	"source": "Region Canberra",
+	"date": "May 30, 2025",
+	"summary": "Remote work may boost flexibility, but employers must now address home office ergonomics, mental health, and compliance. Region outlines the unexpected obligations and liabilities that come with letting staff work from home, urging firms to adopt supportive, health-conscious policies.",
+	"link": "https://region.com.au/letting-your-employees-work-from-home-heres-what-youve-signed-up-for/867951/"
+    },
+	{
+	"image": "./img/DVIDS_Logo.png",
+	"category": "Events",
+	"title": "Oregon National Guard Ergonomics: ‘Keeping fit to fight’",
+	"source": "DVIDS",
+	"date": "May 30, 2025",
+	"summary": "The Oregon National Guard is promoting ergonomic practices to keep soldiers physically prepared and injury-free. The initiative includes posture awareness, physical conditioning, and ergonomic training aimed at enhancing operational readiness and reducing musculoskeletal injuries.",
+	"link": "https://www.dvidshub.net/news/499341/oregon-national-guard-ergonomics-keeping-fit-fight"
+    },
+	{
+	"image": "./img/ANSSI_Wellness_Logo.png",
+	"category": "Research",
+	"title": "Workplace Ergonomics and Orthopaedic Health: How to Avoid Work-Related Musculoskeletal Issues",
+	"source": "ANSSI Wellness",
+	"date": "May 29, 2025",
+	"summary": "Workplace ergonomics plays a vital role in preventing orthopedic issues like back pain and carpal tunnel syndrome. ANSSI Wellness emphasizes the importance of ergonomic workspaces, movement, and posture awareness to reduce musculoskeletal stress and improve long-term employee well-being.",
+	"link": "https://www.anssiwellness.com/workplace-ergonomics-and-orthopaedic-health-how-to-avoid-work-related-musculoskeletal-issues/"
+    },
+	{
+	"image": "./img/Ergonomics_Center_Logo.png",
+	"category": "Industry",
+	"title": "Ergonomics Solutions Webinar: Casters",
+	"source": "YouTube",
+	"date": "May 29, 2025",
+	"summary": "This video explains ergonomic best practices for computer users, focusing on posture, desk setup, and movement. It offers accessible tips to reduce strain and discomfort during long hours of desk work, suitable for office and remote workers alike.",
+	"link": "https://www.youtube.com/watch?v=QQweCJiIPmg"
+    },
+	{
+	"image": "./img/Native_News_Online_Logo.png",
+	"category": "Legal",
+	"title": "How OSHA 10-Hour Online Course Training Meets Federal and State Regulations",
+	"source": "Native News Online",
+	"date": "May 29, 2025",
+	"summary": "The OSHA 10-Hour Online Course helps workers meet federal and state safety training regulations. This article explains how the course covers essential topics including ergonomics, hazard recognition, and worker rights, and is accepted across various industries.",
+	"link": "https://nativenewsonline.net/advertise/branded-voices/how-osha-10-hour-online-course-training-meets-federal-and-state-regulations"
+    },
+
 	{
 	"image": "./img/designwanted_logo.png",
 	"category": "Industry",
