@@ -1,5 +1,33 @@
 [
     {
+	"image": "./img/ergonomics-research-tandfonline.png",
+	"category": "Research",
+	"title": "Learning to apply Design Thinking in participatory ergonomics: an exploratory study of OHS professionals in Denmark",
+	"source": "Taylor & Francis Online",
+	"date": "June 5, 2025",
+	"summary": "This peer-reviewed study investigates the application of ergonomics in industrial settings, providing evidence-based strategies to mitigate musculoskeletal disorders through human-centered system design.",
+	"link": "https://www.tandfonline.com/doi/full/10.1080/00140139.2025.2512427#abstract"
+    },
+	{
+	"image": "./img/assp-logo.png",
+	"category": "Events",
+	"title": "2025 Society Elections Results",
+	"source": "ASSP",
+	"date": "June 5 2025",
+	"summary": "ASSP’s 2025 elections are now open, allowing members to vote for board leadership. These positions shape safety strategy across industries, including advocacy for ergonomics and workplace health policy.",
+	"link": "https://www.assp.org/membership/elections"
+    },
+	{
+	"image": "./img/Transparent-AHFE-Logo.png",
+	"category": "Events",
+	"title": " 16th International Conference on Applied Human Factors and Ergonomics
+	(AHFE 2025) and the Affiliated Conferences",
+	"source": "AHFE",
+	"date": "June 5 2025",
+	"summary": "The AHFE 2025 conference features keynote speeches, technical sessions, workshops, and poster presentations. It covers topics in human factors, ergonomics, and system design, fostering collaboration between academia and industry professionals worldwide.",
+	"link": "https://www.ahfe.org/program.html"
+    }.
+	{
 	"image": "./img/ohs-logo.png",
 	"category": "Research",
 	"title": "Ergonomic Research Highlights Role of Exoskeletons in Preventing Work Related Injuries",
@@ -7,6 +35,15 @@
 	"date": "June 3, 2025",
 	"summary": "New ergonomic research highlights the effectiveness of exoskeletons in reducing work-related injuries. Studies show wearable devices can alleviate strain in physically demanding jobs, signaling a promising direction for workplace injury prevention technology.",
 	"link": "https://ohsonline.com/articles/2025/06/03/ergonomic-research-highlights-role-of-exoskeletons-in-preventing-work-related-injuries.aspx"
+    },
+	{
+	"image": "./img/exoskeleton-report-logo.png",
+	"category": "Industry",
+	"title": "Adopting Occupational Exoskeletons in Small, Medium and Large Businesses with Sarah Ballini-Ross, Ep 14",
+	"source": "Exoskeleton Report",
+	"date": "June 2, 2025",
+	"summary": "Sarah Ballini Ross discusses exoskeleton adoption across businesses of all sizes. This episode highlights challenges, benefits, and practical strategies for integrating wearable robotics into workplace ergonomics.",
+	"link": "https://exoskeletonreport.com/2025/06/adopting-occupational-exoskeletons-in-small-medium-and-large-businesses-with-sarah-ballini-ross-ep-14/"
     },
 	{
 	"image": "./img/ohs-logo.png",
@@ -25,6 +62,15 @@
 	"date": "May 31, 2025",
 	"summary": "Tech neck, caused by prolonged device use with poor posture, is emerging as a public health issue. Experts warn of chronic pain, spinal degeneration, and long-term musculoskeletal problems if left unaddressed. The article urges increased awareness and proactive ergonomic habits in both work and daily life.",
 	"link": "https://newscop.com.au/2025/05/31/heads-up-tech-neck-is-becoming-a-major-growing-pain-and-a-public-health-concern/"
+    },
+	{
+	"image": "./img/Transparent-Fit_For_Work-Logo.png",
+	"category": "Industry",
+	"title": "Integrating Ergonomics with Continuous Improvement Initiatives: Considerations for the Human Operator",
+	"source": "Fit For Work",
+	"date": "May 30, 2025",
+	"summary": "This article explores how integrating ergonomics with continuous improvement frameworks like Lean or Six Sigma can boost both worker well-being and process performance, emphasizing human-centered design.",
+	"link": "https://wellworkforce.com/integrating-ergonomics-with-continuous-improvement-initiatives-considerations-for-the-human-operator/#"
     },
 	{
 	"image": "./img/SafetyCulture_Logo.png",
@@ -110,7 +156,15 @@
 	"summary": "Dr. Alan Hedge emphasizes the urgent need for adaptive ergonomic solutions amid evolving work environments, including hybrid and remote setups. He advocates for proactive design that supports well-being, productivity, and long-term health, highlighting how modern ergonomics must align with flexible work patterns.",
 	"link": "https://www.apnnews.com/shifting-work-patterns-demand-smarter-ergonomic-solutions-says-dr-alan-hedge-the-world-renowned-ergonomist/"
     },
-
+	{
+	"image": "./img/assp-logo.png",
+	"category": "Events",
+	"title": "Safety 2025 in Orlando Will Feature Can’t-Miss Expo",
+	"source": "ASSP",
+	"date": "May 28, 2025",
+	"summary": "ASSP’s Safety 2025 event in Orlando promises a major expo showcasing safety innovations, networking opportunities, and professional development. Attendees can expect leading ergonomics and safety solutions on display.",
+	"link": "https://www.assp.org/news-and-articles/safety-2025-in-orlando-will-feature-can-t-miss-expo"
+    },
 	{
 	"image": "./img/Frontiers.png",
 	"category": "Research",
