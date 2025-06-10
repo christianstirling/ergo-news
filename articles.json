@@ -1,5 +1,77 @@
 [
     {
+	"image": "./img/OKState-Logo.png",
+	"category": "Events",
+	"title": "Human Factors and Ergonomics Society showcases versatility of human factors to OSU students",
+	"source": "Oklahoma State University",
+	"date": "June 10, 2025",
+	"summary": "Oklahoma State University has established a chapter of the Human Factors and Ergonomics Society (HFES) within its College of Engineering, Architecture and Technology. The chapter aims to provide students with additional learning opportunities outside the classroom, support their academic performance, and prepare them for careers in human factors engineering. The organization is co-advised by Dr. Katie Jurewicz and Dr. Pratima Saravanan, with graduate research assistant Matt Nare serving as president. The chapter is affiliated with the national HFES, offering students access to a network of professionals and national conferences.",
+	"link": "https://news.okstate.edu/articles/engineering-architecture-technology/2025/osu_starts_chapter_of_human_factors_and_ergonomics_society.html"
+    },
+	{
+	"image": "./img/Discover_Eng-Logo.png",
+	"category": "Research",
+	"title": "Human Factors and Ergonomics in Industrial Engineering",
+	"source": "Discover Engineering",
+	"date": "June 10, 2025",
+	"summary": "Human Factors and Ergonomics (HFE) is a critical discipline within Industrial Engineering that focuses on optimizing the interaction between humans and systems. This field aims to enhance productivity, safety, and comfort by designing systems that accommodate human capabilities and limitations. The importance of HFE in engineering cannot be overstated, as it directly impacts the efficiency and well-being of workers, the quality of products, and the overall performance of industrial operations. This article delves into the various aspects of Human Factors and Ergonomics in Industrial Engineering, exploring its fundamentals, historical development, applications, advanced topics, challenges, and considerations.",
+	"link": "https://www.discoverengineering.org/human-factors-and-ergonomics-in-industrial-engineering/"
+    },
+	{
+	"image": "./img/Macnifico-Logo.png",
+	"category": "Industry",
+	"title": "Exoskeleton Robotics for Occupational Safety Market 2025: Surge in Adoption Drives 18% CAGR Through 2029",
+	"source": "Macnifico",
+	"date": "June 9, 2025",
+	"summary": "The global market for exoskeleton robotics in occupational safety is projected to grow at an 18% CAGR through 2029, driven by advancements in wearable robotics, increased workplace safety regulations, and rising awareness of occupational health. Companies like SuitX, Ottobock, and Honda Robotics are developing exoskeleton solutions to augment human strength, reduce fatigue, and minimize musculoskeletal injuries in sectors such as manufacturing, construction, and logistics. The integration of AI and IoT connectivity enables real-time monitoring of worker posture and fatigue, supporting proactive safety interventions.",
+	"link": "https://www.macnifico.pt/news-en/exoskeleton-robotics-for-occupational-safety-market-2025-surge-in-adoption-drives-18-cagr-through-2029/96916/"
+    },
+	{
+	"image": "./img/Noticias-Logo.png",
+	"category": "Industry",
+	"title": "Textile-Based Exoskeleton Technologies Market 2025: Smart Fabrics Drive 18% CAGR Amid Healthcare & Industrial Surge",
+	"source": "Noticias",
+	"date": "June 9, 2025",
+	"summary": "Textile-based exoskeleton technologies are experiencing significant growth, with the market expected to expand at an 18% CAGR through 2029. Innovations in smart fabrics, such as conductive fibers and shape-memory polymers, are enhancing the comfort and functionality of wearable assistive devices. These advancements are particularly beneficial in healthcare and industrial applications, where they assist with mobility, reduce fatigue, and minimize the risk of musculoskeletal injuries. Companies like SuitX, Samsung, and Sarkari Exoskeleton are leading the development of these technologies.",
+	"link": "https://lisboatv.pt/news_en/textile-based-exoskeleton-technologies-market-2025-smart-fabrics-drive-18-cagr-amid-healthcare-industrial-surge/59429/"
+    },
+	{
+	"image": "./img/Canadian_OC_Safety-Logo.png",
+	"category": "Legal",
+	"title": "Safe by Design, Not by Chance",
+	"source": "Canadian Occupational Safety",
+	"date": "June 9, 2025",
+	"summary": "Ontario's latest campaign, 'Safe by Design, Not by Chance,' empowers employers to eliminate avoidable risks at the source. The initiative focuses on redesigning systems and environments to prevent injuries, rather than relying solely on worker behavior. The campaign targets sectors with high rates of injuries, such as retail, warehousing, and manufacturing, emphasizing the importance of proactive safety measures and system-wide prevention strategies to reduce workplace hazards and protect workers.",
+	"link": "https://www.thesafetymag.com/ca/topics/safety-and-ppe/safe-by-design-not-by-chance/538451"
+    },
+	{
+	"image": "./img/Biznes_NewSeria-Logo.png",
+	"category": "Industry",
+	"title": "Sam Logistics Partners with Vestil Manufacturing to Enhance Warehouse Solutions",
+	"source": "EIN Newswire - Newseria Biznes",
+	"date": "June 9, 2025",
+	"summary": "Sam Logistics & Supplies Inc. has partnered with Vestil Manufacturing to enhance warehouse solutions by integrating advanced material handling components. The collaboration aims to improve ergonomics and safety while streamlining operations in warehouses and distribution centers. The product lineup includes heavy-duty equipment like forklifts, pallet jacks, conveyors, and customizable storage solutions, all designed to boost warehouse capacity and ensure compliance with safety standards.",
+	"link": "https://biznes.newseria.pl/ze-swiata/ein-newswire/sam-logistics-partners,b1440797450"
+    },
+	{
+	"image": "./img/Philstar_Global-Logo.png",
+	"category": "Industry",
+	"title": "Innovators Champion Ergonomics for Sustainability",
+	"source": "Philstar Global",
+	"date": "June 8, 2025",
+	"summary": "Innovators are championing ergonomics as a key factor in sustainability efforts, recognizing that well-designed work environments can lead to improved productivity, reduced waste, and enhanced worker well-being. By integrating ergonomic principles into product design and workplace layouts, companies are not only fostering a healthier workforce but also contributing to environmental sustainability. This approach aligns with global trends towards sustainable development and responsible business practices.",
+	"link": "https://www.philstar.com/business/2025/06/08/2448855/innovators-champion-ergonomics-sustainability"
+    },
+	{
+	"image": "./img/Interesting_Eng.png",
+	"category": "Industry",
+	"title": "Headless Humanoid Robot Built in 40 Days to Work in Renault Factory",
+	"source": "Interesting Engineering",
+	"date": "June 10, 2025",
+	"summary": "Wandercraft has developed a headless humanoid robot named Calvin in just 40 days to perform manufacturing tasks at Renault's factory. The voice-controlled, self-balancing robot is designed to relieve workers from painful and non-ergonomic tasks, improving productivity and reducing physical strain. The collaboration between Wandercraft and Renault aims to integrate Calvin into industrial environments, enhancing worker safety and operational efficiency.",
+	"link": "https://interestingengineering.com/innovation/calvin-humanoid-robot-work-at-renault"
+    },
+	{
 	"image": "./img/ergonomics-research-tandfonline.png",
 	"category": "Research",
 	"title": "Learning to apply Design Thinking in participatory ergonomics: an exploratory study of OHS professionals in Denmark",
