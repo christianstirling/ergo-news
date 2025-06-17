@@ -1,5 +1,122 @@
 [
     {
+	"image": "./img/hfes-logo.png",
+	"category": "Events",
+	"title": "More Time to Apply — Application Deadline Extended to June 24",
+	"source": "HFES",
+	"date": "June 17, 2025",
+	"summary": "HFES has extended the application deadline for the Alphonse Chapanis Award to June 24. This $2,000 award honors outstanding human factors research and will be presented at the ASPIRE 2025 Annual Meeting.",
+	"link": "https://www.hfes.org/Events/ASPIRE-International-Annual-Meeting/Registration/Register-to-Attend"
+    },
+	{
+	"image": "./img/Trinity_College-Logo.png",
+	"category": "Events",
+	"title": "Watch our video about HEPS Conference 2025",
+	"source": "Trinity College Dublin",
+	"date": "June 17, 2025",
+	"summary": "Trinity College Dublin shares highlights of the 2025 HEPS conference, emphasizing innovations in ergonomics, human performance, and workplace health solutions.",
+	"link": "https://www.tcd.ie/psychology/news/latest-news/watch-our-video-about-heps-conference-2025/"
+    },
+	{
+	"image": "./img/Time_Manage-Logo.png",
+	"category": "Research",
+	"title": "What Are The Basic Principles Of Ergonomics?",
+	"source": "YouTube",
+	"date": "June 17, 2025",
+	"summary": "This video outlines key ergonomic principles to enhance comfort, safety, and productivity at work. Topics include posture, adjustability, tool alignment, movement, visual ergonomics, and workspace organization.",
+	"link": "https://www.youtube.com/watch?v=CAAe_zSjT4E"
+    },
+	{
+	"image": "./img/Env_Pro-Logo.png",
+	"category": "Research",
+	"title": "Why Microbreaks Might Be the Most Underrated Ergonomics Tool at Work",
+	"source": "Environmental Protection",
+	"date": "June 16, 2025",
+	"summary": "Microbreaks are gaining attention as essential tools for reducing workplace fatigue and improving ergonomic outcomes, especially for desk-bound professionals.",
+	"link": "https://eponline.com/articles/2025/06/16/why-microbreaks-might-be-the-most-underrated-ergonomics-tool-at-work.aspx"
+    },
+	{
+	"image": ".img/osh_Canadian.png",
+	"category": "Industry",
+	"title": "Human factors as a strategy to control challenges in manufacturing",
+	"source": "OHS Canada",
+	"date": "June 14, 2025",
+	"summary": "Human factors are being used as strategic tools to address complex challenges in manufacturing, with emphasis on error reduction and productivity gains.",
+	"link": "https://www.ohscanada.com/opinions/human-factors-as-a-strategy-to-control-challenges-in-manufacturing/"
+    },
+	{
+	"image": "./img/linkedin-logo.png",
+	"category": "Research",
+	"title": "'Ergonomics & Human factors: fade of a discipline' + responses",
+	"source": "LinkedIn",
+	"date": "June 13, 2025",
+	"summary": "Ben Hutchinson explores the declining visibility of ergonomics and human factors, proposing strategic responses to revitalize the discipline in industry and academia.",
+	"link": "https://www.linkedin.com/pulse/ergonomics-human-factors-fade-discipline-responses-ben-hutchinson-xentc"
+    },
+	{
+	"image": "./img/RM-Logo.png",
+	"category": "Industry",
+	"title": "Exoskeleton Market Research and Global Forecast Report 2025-2030: Powered Exoskeletons Lead Growth with Robust Investment Activities, Industrial Adoption Amplifies Expansion",
+	"source": "GlobeNewswire",
+	"date": "June 12, 2025",
+	"summary": "The global exoskeleton market will grow through 2030, led by powered exoskeletons. Industrial use and investment are key drivers of this expansion trend.",
+	"link": "https://www.globenewswire.com/news-release/2025/06/12/3098454/28124/en/Exoskeleton-Market-Research-and-Global-Forecast-Report-2025-2030-Powered-Exoskeletons-Lead-Growth-with-Robust-Investment-Activities-Industrial-Adoption-Amplifies-Expansion.html"
+    },
+	{
+	"image": "./img/Stock_Titian-Logo.png",
+	"category": "Research",
+	"title": "New Findings from NSC Grant Recipients Help Tackle America's Most Common Workplace Injury",
+	"source": "Stock Titan",
+	"date": "June 10, 2025",
+	"summary": "New data from National Safety Council grant recipients reveal high-risk areas in Amazon’s warehouses. The research aims to reduce musculoskeletal disorders (MSDs) through targeted ergonomics solutions, emphasizing the need for systemic safety improvements.",
+	"link": "https://www.stocktitan.net/news/AMZN/new-findings-from-nsc-grant-recipients-help-tackle-america-s-most-is2ovwa34obx.html"
+    },
+	{
+	"image": "./img/FastCo-Logo.png",
+	"category": "Industry",
+	"title": "5 things you're getting wrong about sitting at your desk, according to an ergonomics expert",
+	"source": "Fast Company",
+	"date": "June 10, 2025",
+	"summary": "Ergonomist Rachel Mitchell highlights common desk posture mistakes, such as unsupported feet and incorrect screen height. The article offers practical fixes that can prevent discomfort and long-term injuries in office settings.",
+	"link": "https://www.fastcompany.com/91346282/things-youre-getting-wrong-about-sitting-at-your-desk-according-to-an-ergonomics-expert"
+    },
+	{
+	"image": "./img/Bloomberg_Law-Logo.png",
+	"category": "Legal",
+	"title": "Safety Inspection Update Points OSHA at Warehouses, Health Care",
+	"source": "Bloomberg Law",
+	"date": "June 10, 2025",
+	"summary": "OSHA’s updated inspection priorities now target warehouses and healthcare facilities due to rising safety violations. The focus includes ergonomics-related injuries, reflecting federal efforts to strengthen workplace health enforcement.",
+	"link": "https://news.bloomberglaw.com/us-law-week/safety-inspection-update-points-osha-at-warehouses-health-care"
+    },
+	{
+	"image": "./img/texasam-university-ergonomics-center-logo.png",
+	"category": "Research",
+	"title": "Virtual Reality Interface Design Affects Users Both Physically And Mentally",
+	"source": "Texas A&M University",
+	"date": "June 10, 2025",
+	"summary": "A Texas A&M study finds that virtual reality interface design significantly influences user posture, fatigue, and cognitive load. Researchers stress the need for ergonomically sound VR development, especially for long-term use.",
+	"link": "https://stories.tamu.edu/news/2025/05/06/virtual-reality-interface-design-affects-users-both-physically-and-mentally/"
+    },
+	{
+	"image": "./img/OTS_News-Logo.png",
+	"category": "Industry",
+	"title": "Your Chair Might Be Killing Your Productivity—Here’s Why",
+	"source": "OTS News",
+	"date": "June 10, 2025",
+	"summary": "Poor chair design can impair focus and efficiency. This article explains how proper ergonomics can improve productivity in remote and office workspaces.",
+	"link": "https://www.otsnews.co.uk/your-chair-might-be-killing-your-productivity-heres-why/"
+    },
+	{
+	"image": "./img/GQ_Magazine-Logo.png",
+	"category": "Industry",
+	"title": "How to fix your posture – because being hunched could be killing you",
+	"source": "GQ Magazine",
+	"date": "June 10, 2025",
+	"summary": "GQ explores how poor posture develops and shares expert tips to improve spinal health through better ergonomics, movement habits, and awareness.",
+	"link": "https://www.gq-magazine.co.uk/article/how-to-fix-your-posture"
+	},
+	{
 	"image": "./img/OKState-Logo.png",
 	"category": "Events",
 	"title": "Human Factors and Ergonomics Society showcases versatility of human factors to OSU students",
@@ -72,7 +189,7 @@
 	"link": "https://interestingengineering.com/innovation/calvin-humanoid-robot-work-at-renault"
     },
 	{
-	"image": "./img/ergonomics-research-tandfonline.png",
+	"image": "./img/Taylor_And_Francis-Logo.png",
 	"category": "Research",
 	"title": "Learning to apply Design Thinking in participatory ergonomics: an exploratory study of OHS professionals in Denmark",
 	"source": "Taylor & Francis Online",
