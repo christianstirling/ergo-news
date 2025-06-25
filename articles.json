@@ -1,5 +1,158 @@
 [
-    {
+   {
+	"image": "./img/.aes-logo.png",
+	"category": "Events",
+	"title": "Applied Ergonomics Conference (IISE)",
+	"source": "IISE",
+	"date": "June 25, 2025",
+	"summary": "Event announcement for the Applied Ergonomics Conference organized by IISE, focusing on innovative research and practical ergonomics.",
+	"link": "https://www.iise.org/aec/"
+   },
+	{
+	"image": "./img/foundation-for-professional-ergonomics-logo.png",
+	"category": "Events",
+	"title": "Texas A&M Student Wins Ergonomics Award",
+	"source": "Foundation for Professional Ergonomics Foundation",
+	"date": "June 25, 2025",
+	"summary": "Highlights a student award for ergonomics innovation, emphasizing academic excellence and practical impact on workplace design.",
+	"link": "https://www.ergofoundation.org/news/105-texas-a-m-student-wins-award"
+   },
+	{
+	"image": "./img/modern-materials-handling-logo.png",
+	"category": "Industry",
+	"title": "Ergonomics in Lift Truck Design Requires a Balanced Approach",
+	"source": "Modern Materials Handling",
+	"date": "June 25, 2025",
+	"summary": "Discusses ergonomic challenges and design considerations in lift truck operations for industrial safety and operator comfort.",
+	"link": "https://www.mmh.com/article/ergonomics_in_lift_truck_design_requires_a_balanced_approach"
+   },
+	{
+	"image": "./img/ResearchGate-Logo.png",
+	"category": "Research",
+	"title": "An Ergonomic Perspective on the Analysis of Postural Behaviors of Factory Workers: A Human Factors-Based Evaluation",
+	"source": "ResearchGate",
+	"date": "June 25, 2025",
+	"summary": "Academic study analyzing factory workers’ postures using human factors methodology. It provides empirical data relevant to ergonomic risk assessment.",
+	"link": "https://www.researchgate.net/publication/392894725_An_Ergonomic_Perspective_on_the_Analysis_of_Postural_Behaviors_of_Factory_Workers_A_Human_Factors-Based_Evaluation"
+   },
+	{
+	"image": "./img/Taylor'd_Ergo-Logo.png",
+	"category": "Legal",
+	"title": "Retail, You’re Next – MLITSD Blitz Update",
+	"source": "Taylor’d Ergo",
+	"date": "June 25, 2025",
+	"summary": "Advises retail employers on upcoming ergonomic compliance inspections under Ontario’s MLITSD enforcement blitz initiative.",
+	"link": "https://www.taylordergo.com/retail-youre-next-what-can-the-retail-sector-expect-from-the-mlitsd-blitz/"
+   },
+	{
+	"image": "./img/GadgetFlow-Logo.png",
+	"category": "Events",
+	"title": "This might be the smartest ergonomic chair ever built—yes, even smarter than that one with wings",
+	"source": "The Gadget Flow",
+	"date": "June 24, 2025",
+	"summary": "A product review of the Libernovo Omni Smart Ergonomic Chair, showcasing its features and benefits for daily comfort. It supports new ergonomic solutions for personal and work environments.",
+	"link": "https://thegadgetflow.com/blog/libernovo-omni-smart-ergonomic-chair-review/"
+   },
+	{
+	"image": "./img/Corporate_Spec-Logo.png",
+	"category": "Industry",
+	"title": "7 Pratical Ways to Incorporating Ergonomic Principles into Home Office Design",
+	"source": "Corporate Spec",
+	"date": "June 24, 2025",
+	"summary": "The article discusses practical ways to enhance home office ergonomics, covering posture, layout, and equipment advice for remote workers.",
+	"link": "https://corporatespec.com/ergonomic-principles-into-home-office-design/"
+   },
+	{
+	"image": "./img/Sun-Logo.png",
+	"category": "Industry",
+	"title": "Posture-related health issues rising: Trainer",
+	"source": "The Sun Daily",
+	"date": "June 24, 2025",
+	"summary": "The article highlights rising posture-related health issues in Malaysia, especially among youth and office workers. It discusses causes such as poor sitting habits and sedentary lifestyles, underscoring the need for ergonomic awareness.",
+	"link": "https://thesun.my/malaysia-news/posture-related-health-issues-rising-trainer-KF14339344"
+   },
+	{
+	"image": "./img/NewAge_Ind-Logo.png",
+	"category": "Industry",
+	"title": "Aluminum Picking Carts: Where Ergonomics and Productivity Meet for Warehouse Success",
+	"source": "New Age Industrial",
+	"date": "June 23, 2025",
+	"summary": "This article introduces ergonomic aluminum picking carts that enhance warehouse safety and worker productivity. It emphasizes ergonomic design in logistics and industrial settings.",
+	"link": "https://www.newageindustrial.com/news/aluminum-picking-carts-where-ergonomics-and-productivity-meet-for-warehouse-success/"
+   },
+	{
+	"image": "./img/Hanger_World-Logo.png",
+	"category": "Events",
+	"title": "Ergonomics Webinar on Posture and Prevention",
+	"source": "YouTube",
+	"date": "June 21, 2025",
+	"summary": "A recorded webinar focusing on posture health and ergonomic prevention strategies in the workplace, featuring expert tips and examples.",
+	"link": "https://www.youtube.com/watch?v=h7sSthrr_BQ"
+   },
+	{
+	"image": "./img/ohs-logo.png",
+	"category": "Events",
+	"title": "Maine Department of Labor Offers Free Workplace Safety Trainings in July",
+	"source": "OHS Online",
+	"date": "June 20, 2025",
+	"summary": "This article covers free workplace safety training events, including ergonomics-focused sessions provided by the Maine Department of Labor.",
+	"link": "https://ohsonline.com/articles/2025/06/20/maine-department-of-labor-offers-free-workplace-safety-trainings-in-july.aspx"
+   },
+	{
+	"image": "./img/Lexology-Logo.png",
+	"category": "Legal",
+	"title": "Philippines: Stricter Rules, Safer Workplaces: Tightening of Occupational Safety and Health Standards",
+	"source": "Lexology",
+	"date": "June 19, 2025",
+	"summary": "This article reviews OSHA’s National Emphasis Programs and their ergonomic implications, offering insights into federal regulatory priorities on workplace ergonomics.",
+	"link": "https://www.lexology.com/library/detail.aspx?g=d273d947-3478-48a3-a24d-11b8a0b8cf03"
+   },
+	{
+	"image": "./img/ohs-logo.png",
+	"category": "Research",
+	"title": "Small Breaks, Big Impact: How Microbreaks Improve Safety and Performance",
+	"source": "OHS Online",
+	"date": "June 19, 2025",
+	"summary": "Study findings show microbreaks reduce strain and boost workplace safety, providing actionable ergonomic guidance for task design.",
+	"link": "https://ohsonline.com/articles/2025/06/19/microbreaks-improve-safety-and-performance.aspx"
+   },
+	{
+	"image": "./img/OpenPR-Logo.png",
+	"category": "Research",
+	"title": "Human Factors and Usability Engineering Services Market Key Players Analysis",
+	"source": "OpenPR",
+	"date": "June 19, 2025",
+	"summary": "Industry forecast for human factors and usability engineering services, highlighting growth opportunities and applications in ergonomics.",
+	"link": "https://www.openpr.com/news/4073414/human-factors-and-usability-engineering-services-market-key"
+   },
+	{
+	"image": "./img/Forbes.png",
+	"category": "Industry",
+	"title": "How Assistive Technologies Are Transforming the Workplace",
+	"source": "Forbes",
+	"date": "June 18, 2025",
+	"summary": "Examines how assistive technologies, including ergonomic tools, are being used to create inclusive and efficient workspaces.",
+	"link": "https://www.forbes.com/sites/dianewiniarski/2025/06/18/how-assistive-technologies-are-transforming-the-workplace/"
+   },
+	{
+	"image": "./img/Black_Box-Logo.png",
+	"category": "Events",
+	"title": "Black Box and CREON to Present Live Webinar: ‘Ergonomics + Technology: The Blueprint for Modern Control Rooms’",
+	"source": "Black Box",
+	"date": "June 17, 2025",
+	"summary": "A joint live webinar will be hosted to discuss ergonomic technologies and digital transformation tools for workplace optimization.",
+	"link": "https://www.blackbox.com/insights/news/detail/2025/06/17/black-box-and-creon-to-present-live-webinar"
+   },
+	{
+	"image": "./img/Remi-Logo.png",
+	"category": "Industry",
+	"title": "New ergonomic tool supports inclusive workplaces",
+	"source": "REMI Network",
+	"date": "June 17, 2025",
+	"summary": "Discusses the key design factors in creating ergonomic workplaces that improve health, comfort, and productivity.",
+	"link": "https://www.reminetwork.com/articles/ergonomic-workplace/"
+   },
+	{
 	"image": "./img/hfes-logo.png",
 	"category": "Events",
 	"title": "More Time to Apply — Application Deadline Extended to June 24",
@@ -418,7 +571,7 @@
         "link": "https://www.osha.gov/worker-fatigue"
     },
 	{
-        "image": "./img/Puget_Sound_Chapter_HFES.png",
+        "image": "./img/Inversed_Puget_Sound_Chapter_HFES.png",
         "category": "Events",
         "title": "24th Annual Human Factors and Ergonomics Symposium",
         "source": "The Puget Sound Chapter of the Human Factors and Ergonomics Society",
