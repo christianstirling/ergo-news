@@ -1,5 +1,32 @@
 [
-   {
+	{
+	"image": "./img/iea-logo.png",
+	"category": "Events",
+	"title": "Resilience Engineering (RE) and Artificial Intelligence (AI)",
+	"source": "International Ergonomics Association",
+	"date": "July 1, 2025",
+	"summary": "A July 3 webinar from the International Ergonomics Association will spotlight how AI and resilience engineering intersect in safety‑critical sectors. Presented by PhD-level experts, the event delves into system-oriented strategies for embedding resilience and human‑centric design into AI‑driven operations.",
+	"link": "https://iea.cc/resilience-engineering-re-and-artificial-intelligence-ai/"
+    },
+	{
+	"image": "./img/Amazon_News-Logo.png",
+	"category": "Industry",
+	"title": "Amazon continues to invest in its last-mile network to enable faster deliveries to customers in Australia",
+	"source": "About Amazon Australia",
+	"date": "June 28, 2025",
+	"summary": "Amazon is investing AU$30 million in next‑generation delivery station tech in Australia that includes Tipper automation unloading and ergonomic package presentation systems. These innovations aim to reduce physical strain on employees while enhancing delivery efficiency—key ergonomic benefits in workplace design.",
+	"link": "https://www.aboutamazon.com.au/news/innovation/amazon-continues-to-invest-in-its-last-mile-network-to-enable-faster-deliveries-to-customers-in-australia"
+    },
+	{
+	"image": "./img/Bloomberg_Law-Logo.png",
+	"category": "Legal",
+	"title": "Labor Department Targets Dozens of Rules for Deregulatory Push",
+	"source": "Bloomberg Law",
+	"date": "June 27, 2025",
+	"summary": "The U.S. Labor Department plans to deregulate dozens of workplace rules, including those affecting safety enforcement—potentially rolling back ergonomic protections. These developments may significantly impact occupational health and safety standards across industries.",
+	"link": "https://news.bloomberglaw.com/us-law-week/labor-department-targets-dozens-of-rules-for-deregulatory-push"
+    },
+   	{
 	"image": "./img/aes-logo.png",
 	"category": "Events",
 	"title": "Applied Ergonomics Conference (IISE)",
