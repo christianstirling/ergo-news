@@ -1,4 +1,76 @@
 [
+    {
+	"image": "./img/assp-logo.png",
+	"category": "Industry",
+	"title": "Driving Safer Workplaces: ASSP Launches Innovative Safety Trekr AI",
+	"source": "ASSP",
+	"date": "July 1, 2025",
+	"summary": "ASSP has introduced Safety Trekr AI, an AI-powered tool that simplifies hazard identification by summarizing its 1,330-page handbook. The mobile-enabled platform aids professionals with instant ergonomic and safety insights.",
+	"link": "https://www.assp.org/news-and-articles/driving-safer-workplaces-assp-launches-innovative-safety-trekr-ai"
+    },
+	{
+	"image": "./img/Manila_Times-Logo.png",
+	"category": "Industry",
+	"title": "VelocityEHS Launches New PSIF AI to Identify the Next Serious Injury or Fatality",
+	"source": "Manila Times",
+	"date": "July 1, 2025",
+	"summary": "VelocityEHS introduced its PSIF AI tool to detect high-risk ergonomic and safety events before injuries occur. The AI identifies patterns in near-miss data to help prevent strains, amputations, and fatigue-related incidents.",
+	"link": "https://www.manilatimes.net/2025/07/01/tmt-newswire/globenewswire/velocityehs-launches-new-psif-ai-to-identify-the-next-serious-injury-or-fatality-before-it-happens/2141600"
+    },
+	{
+	"image": "./img/Financial_Content-Logo.png",
+	"category": "Research",
+	"title": "Marine Access Systems Market Size, Share & Trends…",
+	"source": "Financial Content",
+	"date": "July 1, 2025",
+	"summary": "A new report highlights the rise of ergonomic marine access technologies, including automated gangways and telescopic ramps. These innovations reduce strain and improve crew safety in maritime environments.",
+	"link": "https://markets.financialcontent.com/stocks/article/bizwire-2025-7-1-marine-access-systems-market-size-share-trends-analysis-and-forecast-2025-2034-automation-and-ergonomics-drive-innovations-demand-for-corrosion-resistant-marine-access-solutions-on-the-rise-researchandmarketscom"
+    },
+	{
+	"image": "./img/ohs-logo.png",
+	"category": "Industry",
+	"title": "Surveying Your Artificial Intelligence Readiness",
+	"source": "OHS Online",
+	"date": "June 30, 2025",
+	"summary": "This article offers expert guidance on evaluating AI readiness for workplace safety programs, including integrating wearables and video analytics to detect ergonomic risks like fatigue and PPE violations.",
+	"link": "https://ohsonline.com/articles/2025/06/30/ordonez-pub.aspx"
+    },
+	{
+	"image": "./img/safety-and-health-magazine-logo.png",
+	"category": "Legal",
+	"title": "In Push for Deregulation, OSHA Publishes One Final Rule and 25 Proposed Rules",
+	"source": "Safety+Health Magazine",
+	"date": "June 30, 2025",
+	"summary": "OSHA has withdrawn the musculoskeletal disorder column from the 300 log and proposed sweeping changes in recordkeeping. These changes could impact how ergonomic injuries are tracked and addressed.",
+	"link": "https://www.safetyandhealthmagazine.com/articles/27015-in-push-for-deregulation-osha-publishes-one-final-rule-and-25-proposed-rules"
+    },
+	{
+	"image": "./img/safety-and-health-magazine-logo.png.png",
+	"category": "Research",
+	"title": "Stress Related to Job Insecurity Is Common, Survey Shows",
+	"source": "Safety+Health Magazine",
+	"date": "June 30, 2025",
+	"summary": "A recent survey reveals that job insecurity is a top cause of workplace stress. The findings underscore the importance of addressing psychosocial risks as a key part of ergonomic well-being.",
+	"link": "https://www.safetyandhealthmagazine.com/articles/27014-stress-related-to-job-insecurity-is-common-survey-shows"
+    },
+	{
+	"image": "./img/ohs-logo.png",
+	"category": "Events",
+	"title": "Are You Equipped for a First Aid Response?",
+	"source": "OHS Online",
+	"date": "June 30, 2025",
+	"summary": "OHS Online announces an expert-led webcast on ensuring proper workplace first-aid readiness. The session supports ergonomic preparedness through emergency planning and compliance strategies.",
+	"link": "https://ohsonline.com/webcasts/2025/08/are-you-equipped-for-a-first-aid-response.aspx"
+    },
+	{
+	"image": "./img/assp-logo.png",
+	"category": "Legal",
+	"title": "OSHA Renews National Emphasis Program on Amputations in Manufacturing",
+	"source": "ASSP",
+	"date": "June 26, 2025",
+	"summary": "OSHA reissued its enforcement program to reduce amputations in manufacturing, updating targeting criteria and machine guarding standards—vital measures in reducing ergonomic and traumatic injuries.",
+	"link": "https://www.assp.org/news-and-articles/osha-renews-national-emphasis-program-on-amputations-in-manufacturing"
+    },
 	{
 	"image": "./img/iea-logo.png",
 	"category": "Events",
